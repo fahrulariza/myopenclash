@@ -10,20 +10,20 @@
 # USER-AGENT: 1
 # TOTAL: 1157
 payload:
+
+  # YouTube UI dan konten lainnya via proxy SG
+  - DOMAIN,www.youtube.com,TRAFIK-AKUN-LUAR⚠️
+  - DOMAIN-SUFFIX,youtube.com,TRAFIK-AKUN-LUAR⚠️
+  - DOMAIN-KEYWORD,youtube,TRAFIK-AKUN-LUAR⚠️
+  
   # > Youtube
-  - DOMAIN,www.youtube.com,TRAFIK-AKUN-LUAR⚠️,udp
-  - DOMAIN-KEYWORD,youtube.com
-  - DOMAIN-KEYWORD,youtube
   - DOMAIN,youtube-ui.l.google.com
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN-SUFFIX,yt3.ggpht.com
 
-  - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,s.youtube.com
   - DOMAIN-SUFFIX,music.youtube.com
   - DOMAIN-SUFFIX,accounts.youtube.com
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,music.youtube.com
   - DOMAIN-SUFFIX,ytstatic.l.google.com
   - DOMAIN-SUFFIX,ytstatic.com
   - DOMAIN-SUFFIX,youtubeeducation.com
@@ -39,7 +39,6 @@ payload:
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,youtubegaming.com
   
-  - DOMAIN-SUFFIX,.youtube.com
   - DOMAIN-SUFFIX,s.youtube.com
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,ggpht.com
@@ -84,7 +83,6 @@ payload:
   - DOMAIN-SUFFIX,youtube.co.ve
   - DOMAIN-SUFFIX,youtube.co.za
   - DOMAIN-SUFFIX,youtube.co.zw
-  - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,youtube.com.ar
   - DOMAIN-SUFFIX,youtube.com.au
   - DOMAIN-SUFFIX,youtube.com.az
