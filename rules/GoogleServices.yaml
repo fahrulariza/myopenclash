@@ -55,18 +55,14 @@ payload:
   - DOMAIN,google.com,Google - Service🔶,no-resolve
   - DOMAIN-SUFFIX,google.com,Google - Service🔶,no-resolve
 #P
-  - DOMAIN-SUFFIX,photos.google.com
-  - DOMAIN-SUFFIX,photos.fife.usercontent.google.com
-  - DOMAIN-SUFFIX,photos.googleapis.com
-  - DOMAIN-SUFFIX,passwordsleakcheck-pa.googleapis.com
-  - DOMAIN-SUFFIX,peoplestack-pa.googleapis.com
-  - DOMAIN-SUFFIX,photosdata-pa.googleapis.com
+  - DOMAIN-SUFFIX,photos.google.com,Google - Service🔶,no-resolve
+  - DOMAIN-SUFFIX,photos.fife.usercontent.google.com,Google - Service🔶,no-resolve
+  - DOMAIN-SUFFIX,photos.googleapis.com,Google - Service🔶,no-resolve
+  - DOMAIN-SUFFIX,passwordsleakcheck-pa.googleapis.com,Google - Service🔶,no-resolve
+  - DOMAIN-SUFFIX,peoplestack-pa.googleapis.com,Google - Service🔶,no-resolve
+  - DOMAIN-SUFFIX,photosdata-pa.googleapis.com,Google - Service🔶,no-resolve
 
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-KEYWORD,gstatic
-
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,Google - Service🔶,no-resolve
   
   - DOMAIN,voice.telephony.goog
   - DOMAIN-SUFFIX,0emm.com
