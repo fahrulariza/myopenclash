@@ -11,12 +11,13 @@
 # TOTAL: 1157
 payload:
   # > Youtube
+  - DOMAIN,www.youtube.com,udp,TRAFIK-AKUN-LUAR⚠️
   - DOMAIN-KEYWORD,youtube.com
   - DOMAIN-KEYWORD,youtube
   - DOMAIN,youtube-ui.l.google.com
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN-SUFFIX,yt3.ggpht.com
-  - DOMAIN-SUFFIX,www.youtube.com
+
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,s.youtube.com
   - DOMAIN-SUFFIX,music.youtube.com
