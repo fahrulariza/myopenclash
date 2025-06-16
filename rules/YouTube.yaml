@@ -11,10 +11,7 @@
 # TOTAL: 1157
 payload:
 
-  # YouTube UI dan konten lainnya via proxy SG
-  - DOMAIN,www.youtube.com,TRAFIK-AKUN-LUAR⚠️
-  - DOMAIN-SUFFIX,youtube.com,TRAFIK-AKUN-LUAR⚠️
-  - DOMAIN-KEYWORD,youtube,TRAFIK-AKUN-LUAR⚠️
+
   
   # > Youtube
   - DOMAIN,youtube-ui.l.google.com
@@ -199,6 +196,11 @@ payload:
   - DOMAIN-SUFFIX,youtube.ug
   - DOMAIN-SUFFIX,youtube.uy
   - DOMAIN-SUFFIX,youtube.vn
+
+  # YouTube UI dan konten lainnya via proxy SG
+  - DOMAIN,www.youtube.com,TRAFIK-AKUN-LUAR⚠️
+  - DOMAIN-SUFFIX,youtube.com,TRAFIK-AKUN-LUAR⚠️
+  - DOMAIN-KEYWORD,youtube,TRAFIK-AKUN-LUAR⚠️
 
   - IP-CIDR,104.21.47.95/32 # 104.21.47.95 >> returnyoutubedislikeapi.com:443	
 #  - USER-AGENT,*YouTubeMusic*
