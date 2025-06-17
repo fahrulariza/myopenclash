@@ -477,8 +477,8 @@ payload:
   - DOMAIN-SUFFIX,recaptcha-cn.net
   - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN-SUFFIX,redhotlabs.com
-  - DOMAIN-SUFFIX,gvt1.com
-  - DOMAIN-SUFFIX,redirector.gcpcdn.gvt1.com
+
+
   - DOMAIN-SUFFIX,redirector.gvt1.com
   - DOMAIN-SUFFIX,redirector.offline-maps.gvt1.com
   - DOMAIN-SUFFIX,redirector.snap.gvt1.com
