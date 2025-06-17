@@ -45,6 +45,8 @@ payload:
   - IP-CIDR,74.125.24.188/32
   - IP-CIDR,74.125.28.188/32
 
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,redirector.gcpcdn.gvt1.com
   # --- Aturan Khusus Firebase Cloud Messaging (FCM) ke Google - FCM🔷 ---
   # Prioritaskan ini karena sensitif terhadap latensi (notifikasi)
   - DOMAIN,alt1-mtalk.google.com,Google - FCM🔷
