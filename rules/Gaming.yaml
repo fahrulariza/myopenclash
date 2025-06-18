@@ -3,19 +3,68 @@ payload:
 
   # Counter-Strike 2 (CS2)
 ## - DST-PORT,3478,4379-4380,PLAY-IN-GAME 🎮,udp  # Steam voice chat (P2P) = port 3478 sama dengan whatsapp call
-
-  # 🎮 Roblox Real-Time Traffic
+  # ################################################################################################################################
+  # 🎮 Roblox Real-Time Traffic ####################################################################################################
+  # ################################################################################################################################
   - DST-PORT,49152-65535,PLAY-IN-GAME 🎮,udp  # Dynamic UDP port untuk in-game traffic ini adalah port UDP dinamis yang digunakan untuk real-time game traffic, termasuk gerakan pemain, aksi, dan interaksi dalam game. Ini adalah inti dari performa game.
   - DOMAIN-SUFFIX,realtime.roblox.com,PLAY-IN-GAME 🎮,tcp # mengelola sinkronisasi data dan komunikasi real-time backend dari Roblox.
-  - IP-CIDR,128.116.0.0/17,PLAY-IN-GAME 🎮,udp # Hasil capture paket
-  - IP-CIDR,128.116.54.33/32,PLAY-IN-GAME 🎮,udp # Hasil capture paket
-  - IP-CIDR,128.116.54.0/23,PLAY-IN-GAME 🎮,udp # Hasil capture paket
-  - IP-CIDR,128.116.56.0/21,PLAY-IN-GAME 🎮,udp # Hasil capture paket
-  - IP-CIDR,128.116.64.0/19,PLAY-IN-GAME 🎮,udp # Hasil capture paket
-  - IP-CIDR,128.116.96.0/24,PLAY-IN-GAME 🎮,udp # Hasil capture paket
-  - IP-CIDR,128.116.97.0/24,PLAY-IN-GAME 🎮,udp # Hasil capture paket
-    
-# 🎮 Mobile Legends Real-Time Gameplay (Matchmaking, Lobby, Voice Chat)
+  # 🎮 PLAY-IN-GAME - Lalu Lintas Realtime / Game Servers
+  - IP-CIDR,128.116.0.0/17,🎮 PLAY-IN-GAME,no-resolve # Rentang utama Roblox, seringkali untuk server game
+  - IP-CIDR,128.116.50.0/24,🎮 PLAY-IN-GAME,no-resolve # Contoh rentang spesifik Singapura untuk game
+  - IP-CIDR,128.116.97.0/24,🎮 PLAY-IN-GAME,no-resolve # Contoh rentang spesifik Singapura untuk game
+  - IP-CIDR,128.116.21.0/24,🎮 PLAY-IN-GAME,no-resolve # Amsterdam
+  - IP-CIDR,128.116.22.0/24,🎮 PLAY-IN-GAME,no-resolve # Atlanta
+  - IP-CIDR,128.116.32.0/24,🎮 PLAY-IN-GAME,no-resolve # New York City
+  - IP-CIDR,128.116.33.0/24,🎮 PLAY-IN-GAME,no-resolve # London
+  - IP-CIDR,128.116.45.0/24,🎮 PLAY-IN-GAME,no-resolve # Miami
+  - IP-CIDR,128.116.48.0/24,🎮 PLAY-IN-GAME,no-resolve # Chicago
+  - IP-CIDR,128.116.51.0/24,🎮 PLAY-IN-GAME,no-resolve # Sydney
+  - IP-CIDR,128.116.55.0/24,🎮 PLAY-IN-GAME,no-resolve # Tokyo
+  - IP-CIDR,128.116.95.0/24,🎮 PLAY-IN-GAME,no-resolve # Dallas
+  - IP-CIDR,128.116.99.0/24,🎮 PLAY-IN-GAME,no-resolve # Atlanta
+  - IP-CIDR,128.116.101.0/24,🎮 PLAY-IN-GAME,no-resolve # Chicago
+  - IP-CIDR,128.116.102.0/24,🎮 PLAY-IN-GAME,no-resolve # Ashburn
+  - IP-CIDR,128.116.104.0/24,🎮 PLAY-IN-GAME,no-resolve # Mumbai
+  - IP-CIDR,128.116.115.0/24,🎮 PLAY-IN-GAME,no-resolve # Seattle
+  - IP-CIDR,128.116.116.0/24,🎮 PLAY-IN-GAME,no-resolve # Los Angeles
+  - IP-CIDR,128.116.117.0/24,🎮 PLAY-IN-GAME,no-resolve # San Jose
+  - IP-CIDR,128.116.118.0/24,🎮 PLAY-IN-GAME,no-resolve # Hong Kong
+  - IP-CIDR,128.116.119.0/24,🎮 PLAY-IN-GAME,no-resolve # London
+  - IP-CIDR,128.116.120.0/24,🎮 PLAY-IN-GAME,no-resolve # Tokyo
+  - IP-CIDR,128.116.122.0/24,🎮 PLAY-IN-GAME,no-resolve # Paris
+  - IP-CIDR,128.116.123.0/24,🎮 PLAY-IN-GAME,no-resolve # Frankfurt
+  - IP-CIDR,128.116.124.0/24,🎮 PLAY-IN-GAME,no-resolve # Warsaw
+  - IP-CIDR,128.116.127.0/24,🎮 PLAY-IN-GAME,no-resolve # Miami
+
+  # 🕹️ DOWNLOAD-ASSET-GAME - Web/API/HTTPS TCP & Aset Unduhan
+  - IP-CIDR,23.173.192.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,103.140.28.0/23,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,141.193.3.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,204.9.184.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,204.13.168.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,204.13.169.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,204.13.170.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,204.13.171.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,204.13.172.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,204.13.173.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,205.201.62.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,209.206.40.0/21,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
+  - IP-CIDR,209.206.42.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve # San Jose
+  - IP-CIDR,209.206.43.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve # San Jose
+
+  # Rentang IPv6 Roblox (jika kamu menggunakan IPv6)
+  - IP-CIDR,2602:801:1000::/48,🎮 PLAY-IN-GAME,no-resolve
+  - IP-CIDR,2602:801:1008::/48,🎮 PLAY-IN-GAME,no-resolve
+  - IP-CIDR,2602:801:1009::/48,🎮 PLAY-IN-GAME,no-resolve
+  - IP-CIDR,2620:2b:e000::/48,🎮 PLAY-IN-GAME,no-resolve
+  - IP-CIDR,2620:135:6000::/40,🎮 PLAY-IN-GAME,no-resolve
+
+  # Aturan berdasarkan domain untuk memastikan semua lalu lintas Roblox tercakup
+  # Biasanya, ini cocok untuk lalu lintas web, API, dan beberapa unduhan.
+  - DOMAIN-SUFFIX,roblox.com,🕹️ DOWNLOAD-ASSET-GAME
+
+
+# 🎮 Mobile Legends Real-Time Gameplay (Matchmaking, Lobby, Voice Chat) ######################################################################################
 # Menggunakan port TCP untuk gameplay utama, matchmaking, komunikasi suara
   # Port untuk gameplay utama dan matchmaking
 
