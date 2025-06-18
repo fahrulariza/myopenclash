@@ -1,7 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,gvt1.com,Playstore📂
-  - DOMAIN-SUFFIX,gvt1.com
-  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt2.com,Playstore📂
   - DOMAIN-SUFFIX,edgedl.me.gvt1.com
   - DOMAIN-SUFFIX,me.gvt1.com
   - DOMAIN-SUFFIX,edgedl.me.gvt1.com
