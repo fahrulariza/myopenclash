@@ -110,7 +110,7 @@ payload:
 - DOMAIN-SUFFIX,kompas.tv
 - DOMAIN-SUFFIX,jawapos.com
 - DOMAIN-SUFFIX,cnbcindonesia.com
-- DOMAIN-SUFFIX,jagatreview.com
+- DOMAIN,jagatreview.com
 
 # Software
 - DOMAIN-SUFFIX,kuyhaa.me
@@ -126,6 +126,7 @@ payload:
 - DOMAIN-SUFFIX,undip.ac.id
 - DOMAIN-SUFFIX,unair.ac.id
 
+- GEOIP,ID,TRAFIK-AKUN-INDO 🇮🇩
 
 - IP-CIDR,5.62.34.16/29 # ISP: AVAST Software s.r.o., Penyedia: Datacamp Limited, Host pemilik: Datacamp Limited
 - IP-CIDR,5.189.201.128/25 # ISP: Tidak diketahui, Penyedia: Tidak diketahui, Host pemilik: Tidak diketahui
