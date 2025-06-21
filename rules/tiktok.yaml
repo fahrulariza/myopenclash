@@ -2,6 +2,7 @@ payload:
 
 # TikTok
 # Src: https://www.netify.ai/resources/applications/tiktok
+- GEOIP,tiktok,TikTok🔴
 
 - DOMAIN-SUFFIX,bytegecko-i18n.com
 - DOMAIN-SUFFIX,bytefcdn-oversea.com
