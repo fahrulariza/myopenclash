@@ -126,8 +126,8 @@ payload:
 - DOMAIN-SUFFIX,undip.ac.id
 - DOMAIN-SUFFIX,unair.ac.id
 
-- GEOIP,ID,TRAFIK-AKUN-INDO 🇮🇩
-
+- GEOIP,id,TRAFIK-AKUN-INDO 🇮🇩
+- GEOSITE,id,TRAFIK-AKUN-INDO 🇮🇩
 - IP-CIDR,5.62.34.16/29 # ISP: AVAST Software s.r.o., Penyedia: Datacamp Limited, Host pemilik: Datacamp Limited
 - IP-CIDR,5.189.201.128/25 # ISP: Tidak diketahui, Penyedia: Tidak diketahui, Host pemilik: Tidak diketahui
 - IP-CIDR,8.18.195.0/24 # ISP: Tidak diketahui, Penyedia: Tidak diketahui, Host pemilik: Tidak diketahui
