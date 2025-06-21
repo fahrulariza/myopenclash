@@ -11,6 +11,7 @@
 # TOTAL: 1157
 payload:
 - GEOIP,netflix,NETFLIX🔴
+- GEOSITE,netflix,NETFLIX🔴
 - IP-CIDR,172.217.194.101,NETFLIX🔴
 - DOMAIN,e13252.dscg.akamaiedge.net,NETFLIX🔴
 - DOMAIN,h-netflix.online-metrix.net,NETFLIX🔴
