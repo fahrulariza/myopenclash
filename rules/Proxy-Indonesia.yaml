@@ -110,8 +110,9 @@ payload:
 - DOMAIN-SUFFIX,kompas.tv
 - DOMAIN-SUFFIX,jawapos.com
 - DOMAIN-SUFFIX,cnbcindonesia.com
-- DOMAIN,www.jagatreview.com
-- DOMAIN,jagatplay.com
+- DOMAIN-SUFFIX,www.jagatreview.com
+- DOMAIN-SUFFIX,jagatreview.com
+- DOMAIN-SUFFIX,jagatplay.com
 
 # Software
 - DOMAIN-SUFFIX,kuyhaa.me
