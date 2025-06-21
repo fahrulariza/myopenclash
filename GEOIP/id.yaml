@@ -1,3 +1,4 @@
+# https://github.com/MetaCubeX/meta-rules-dat/blob/meta/geo/geoip/id.yaml
 payload:
   - IP-CIDR,3.2.33.128/26
   - IP-CIDR,3.5.36.0/22
