@@ -3,6 +3,10 @@
 # https://mikrotikconfig.com/firewall/
 
 payload:
+
+  - GEOIP,sg,GLOBAL
+  - GEOSITE,sg,GLOBAL
+
   - DOMAIN-SUFFIX,com.sg
   - DOMAIN-SUFFIX,gov.sg
   - DOMAIN-SUFFIX,edu.sg
