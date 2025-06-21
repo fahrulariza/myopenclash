@@ -4,6 +4,9 @@
 
 payload:
 
+  - GEOIP,cn,TRAFIK-CHINA 🇨🇳 🐼
+  - GEOSITE,cn,TRAFIK-CHINA 🇨🇳 🐼
+
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,com.cn
   - DOMAIN-SUFFIX,gov.cn
