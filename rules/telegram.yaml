@@ -2,6 +2,7 @@ payload:
 
   # MATCH is not necessary here, and it will be set under rules: inside config.yml
   # > Telegram
+  - GEOIP,telegram,Telegram📲
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tx.me
   - DOMAIN-SUFFIX,tdesktop.com
