@@ -4,8 +4,8 @@
 
 payload:
 
-  - GEOIP,sg,GLOBAL
-  - GEOSITE,sg,GLOBAL
+  - GEOIP,sg,TRAFIK-SINGAPORE 🇸🇬 🦁
+  - GEOSITE,sg,TRAFIK-SINGAPORE 🇸🇬 🦁
 
   - DOMAIN-SUFFIX,com.sg
   - DOMAIN-SUFFIX,gov.sg
