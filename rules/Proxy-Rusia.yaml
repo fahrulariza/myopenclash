@@ -3,6 +3,10 @@
 # https://mikrotikconfig.com/firewall/
 
 payload:
+
+  - GEOIP,ru,TRAFIK-RUSSIAN 🇷🇺 🐻
+  - GEOSITE,ru,TRAFIK-RUSSIAN 🇷🇺 🐻
+
   - DOMAIN-SUFFIX,ru
   - DOMAIN-SUFFIX,su
   - DOMAIN-SUFFIX,moscow
