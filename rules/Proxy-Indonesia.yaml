@@ -2,10 +2,7 @@
 payload:
 # Mulai baris ini kebawah bisa di edit/hapus
 
-# Server Cloud
-- DOMAIN-SUFFIX,mega.co.nz
-- DOMAIN-SUFFIX,mega.io
-- DOMAIN-SUFFIX,mega.nz
+
 - IP-CIDR,185.206.24.0/22
 - IP-CIDR,66.203.126.0/23
 - IP-CIDR,94.24.36.0/23
@@ -16,7 +13,7 @@ payload:
 - IP-CIDR6,2a0b:e43:1::/48
 - IP-CIDR6,2a0b:e44:1::/48
 - IP-CIDR6,2a0b:e45:1::/48
-  - PROCESS-NAME,mega.privacy.android.app
+
 
 # &gt; LIST Domain tLD Indo & GEOIP INDO
 # DOMAIN-SUFFIX untuk semua subdomain di bawah domain .id
