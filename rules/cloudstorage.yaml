@@ -13,9 +13,12 @@ payload:
   - PROCESS-NAME,com.google.android.apps.docs
 
 # Dropbox
+  - DOMAIN,www.dropbox.com
   - DOMAIN-SUFFIX,dropbox.com
   - DOMAIN-SUFFIX,dropboxusercontent.com
+  - DOMAIN-SUFFIX,dropboxstatic.com
   - PROCESS-NAME,com.dropbox.android
+  
 
 # Microsoft OneDrive
   - DOMAIN-SUFFIX,onedrive.live.com
