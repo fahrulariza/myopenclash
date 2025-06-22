@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,drive.google.com
   - DOMAIN-SUFFIX,googledrive.com
   - DOMAIN-SUFFIX,photos.google.com # Google Photos
+  - DOMAIN,photosdata-pa.googleapis.com
   - PROCESS-NAME,com.google.android.apps.docs
   - PROCESS-NAME,com.google.android.apps.docs
 
