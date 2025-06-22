@@ -7,9 +7,11 @@ payload:
 
 # Cloud Storage Servers (Continuation)
 
-# Google Drive
+# Google Drive (also for photos via Google Photos)
   - DOMAIN-SUFFIX,drive.google.com
   - DOMAIN-SUFFIX,googledrive.com
+  - DOMAIN-SUFFIX,photos.google.com # Google Photos
+  - PROCESS-NAME,com.google.android.apps.docs
   - PROCESS-NAME,com.google.android.apps.docs
 
 # Dropbox
@@ -66,3 +68,7 @@ payload:
 # Zoho WorkDrive
   - DOMAIN-SUFFIX,workdrive.com
   - DOMAIN-SUFFIX,zoho.com
+  
+# Flickr (photo-centric cloud storage)
+- DOMAIN-SUFFIX,flickr.com
+- PROCESS-NAME,com.flickr.android
