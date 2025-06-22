@@ -1,6 +1,7 @@
 
 payload:
 # Mulai baris ini kebawah bisa di edit/hapus
+- DOMAIN-SUFFIX,tancap88.digital
 
 
 - IP-CIDR,185.206.24.0/22
