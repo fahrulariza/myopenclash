@@ -3,6 +3,8 @@ payload:
 # Mulai baris ini kebawah bisa di edit/hapus
 # &gt; LIST Streaming IP/Lokasi Wajib Luar Negeri
 
+- DOMAIN-SUFFIX,tancap88.digital
+
 #TLD Utama untuk Internasional
 - DOMAIN-SUFFIX,com
 - DOMAIN-SUFFIX,net
