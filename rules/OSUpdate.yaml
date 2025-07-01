@@ -239,6 +239,9 @@ payload:
 #REALME
   - DOMAIN-SUFFIX,realme.net
 
+#DELL
+  - DOMAIN-SUFFIX,dl.dell.com
+  
 #IDM
   - DOMAIN-SUFFIX,tonec.com
   - DOMAIN-SUFFIX,www.tonec.com
