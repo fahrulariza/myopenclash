@@ -224,10 +224,10 @@ payload:
   - IP-CIDR,216.58.192.0/19 
 
 # IP-range Google Video (opsional jika streaming gagal)
-  - IP-CIDR,203.208.39.0/24,YOUTUBE🔴
-  - IP-CIDR,74.125.0.0/16,YOUTUBE🔴
-  - IP-CIDR,173.194.0.0/16,YOUTUBE🔴
-  - IP-CIDR,209.85.0.0/16,YOUTUBE🔴
+  - IP-CIDR,203.208.39.0/24 #,YOUTUBE🔴
+  - IP-CIDR,74.125.0.0/16 #,YOUTUBE🔴
+  - IP-CIDR,173.194.0.0/16 #,YOUTUBE🔴
+  - IP-CIDR,209.85.0.0/16 #,YOUTUBE🔴
 
   - IP-CIDR,172.217.194.188/32,no-resolve
   - IP-CIDR,172.217.218.188/32,no-resolve
