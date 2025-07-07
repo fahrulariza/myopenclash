@@ -517,6 +517,7 @@ payload:
 - IP-CIDR,199.232.37.230/32,RP-BANK💰,tcp #xlaxiata-resources.digital-cloud-sin1.medallia.com
 - IP-CIDR,147.75.176.16/32,RP-BANK💰,tcp #xlaxiata2.md-apis.medallia.com
 
+- DOMAIN-SUFFIX,netcoresmartech.com
 - DOMAIN-SUFFIX,tdwcontent.telkomsel.com
 - DOMAIN-SUFFIX,telkomsel.com
 - DOMAIN-KEYWORD,telkomsel
