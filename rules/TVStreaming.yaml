@@ -3,6 +3,10 @@ payload:
 # &gt; LIST Streaming IP/Lokasi Wajib Indo
 
 #IPTV
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discord.media      
   - DOMAIN-SUFFIX,transvision.co.id
   - DOMAIN-SUFFIX,mncnow.id
   - DOMAIN-SUFFIX,melon-live-cdn.mncnow.id
