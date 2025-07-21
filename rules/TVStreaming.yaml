@@ -3,6 +3,9 @@ payload:
 # &gt; LIST Streaming IP/Lokasi Wajib Indo
 
 #IPTV
+  - DOMAIN-KEYWORD,discord
+  - DOMAIN-SUFFIX,discover-pa.googleapis.com
+  - DOMAIN-SUFFIX,discordm�>��
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,discord.gg
   - DOMAIN-SUFFIX,discordapp.com
