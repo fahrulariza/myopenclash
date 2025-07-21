@@ -4,10 +4,12 @@ payload:
 
 #IPTV
   - DOMAIN-KEYWORD,discord
+  - DOMAIN-SUFFIX,media.discordapp.net
   - DOMAIN-SUFFIX,discover-pa.googleapis.com
   - DOMAIN-SUFFIX,discordm�>��
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discord.media      
   - DOMAIN-SUFFIX,transvision.co.id
