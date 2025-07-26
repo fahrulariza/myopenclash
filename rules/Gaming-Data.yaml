@@ -162,3 +162,7 @@ payload:
 # > microsoft games
 - DOMAIN-SUFFIX,microsoftcasualgames.com
 - DOMAIN-SUFFIX,msgamestudios.com
+
+
+- DOMAIN-SUFFIX,cdn.server.uni2play.com
+- DOMAIN-SUFFIX,uni2play.com
