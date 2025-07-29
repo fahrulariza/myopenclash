@@ -1,0 +1,26 @@
+payload:
+  - DOMAIN-SUFFIX,0.openclash.pool.ntp.org
+  - DOMAIN-SUFFIX,1.openclash.pool.ntp.org
+  - DOMAIN-SUFFIX,2.openclash.pool.ntp.org
+  - DOMAIN-SUFFIX,3.openclash.pool.ntp.org
+  - DOMAIN-SUFFIX,pool.ntp.org
+  - DOMAIN-SUFFIX,time.google.com
+  - DOMAIN-SUFFIX,time.windows.com
+  - DOMAIN-SUFFIX,time.apple.com
+  - DOMAIN-SUFFIX,time.nist.gov
+  - DOMAIN-SUFFIX,ntp.org
+  - DOMAIN-SUFFIX,pool.ntp.org
+  - DOMAIN-SUFFIX,time.google.com
+  - DOMAIN-SUFFIX,time.windows.com
+  - DOMAIN-SUFFIX,time.apple.com
+  - DOMAIN-SUFFIX,time.nist.gov
+  - DOMAIN-SUFFIX,0.asia.pool.ntp.org
+  - DOMAIN-SUFFIX,1.asia.pool.ntp.org
+  - DOMAIN-SUFFIX,2.asia.pool.ntp.org
+  - DOMAIN-SUFFIX,3.asia.pool.ntp.org
+  - DOMAIN-SUFFIX,cn.pool.ntp.org
+  - DOMAIN-SUFFIX,ntp.aliyun.com
+  - DOMAIN-SUFFIX,ntp.tencent.com
+  - DOMAIN-SUFFIX,ntp.huaweicloud.com
+  - DOMAIN-SUFFIX,sg.pool.ntp.org
+  - DOMAIN-SUFFIX,time.cloudflare.com
