@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-SUFFIX,dns.google # Google
+  - DOMAIN-SUFFIX,dns.google.com # Google
+  - DOMAIN-SUFFIX,8.8.8.8 # Google
+  - DOMAIN-SUFFIX,8.8.4.4 # Google
+  - DOMAIN-SUFFIX,cloudflare-dns.com # Cloudflare
+  - DOMAIN-SUFFIX,dns.adguard-dns.com
+  - DOMAIN-SUFFIX,1.1.1.1 # Cloudflare
+  - DOMAIN-SUFFIX,1.0.0.1 # Cloudflare
+  - DOMAIN-SUFFIX,dns.nextdns.io # NextDNS
+  - DOMAIN-SUFFIX,dns.quad9.net # Quad9
+  - DOMAIN-SUFFIX,9.9.9.9 # Quad9
