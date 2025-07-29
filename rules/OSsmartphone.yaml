@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,fota-cloud-dn.ospserver.sec.samsung.com
   - DOMAIN-SUFFIX,osb-appssec.samsungdm.com
   - DOMAIN-SUFFIX,cloud-neofota.samsungdm.com
+  - DOMAIN-SUFFIX,dls.di.atlas.samsung.com
   # samsung fw update server
   - DOMAIN-SUFFIX,msecnd.net   
   - DOMAIN-SUFFIX,samsungotn.net
