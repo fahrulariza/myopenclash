@@ -1,0 +1,41 @@
+payload:
+  - DOMAIN-SUFFIX,conn2.oppomobile.com
+  - DOMAIN-SUFFIX,api.sec.intl.miui.com
+
+    # Apple (iOS/macOS)
+  - DOMAIN-SUFFIX,appldnld.apple.com
+  - DOMAIN-SUFFIX,mesu.apple.com
+  - DOMAIN-SUFFIX,updates-http.cdn-apple.com
+  - DOMAIN-SUFFIX,gdmf.apple.com
+  - DOMAIN-SUFFIX,xp.apple.com
+  - DOMAIN-SUFFIX,oscdn.apple.com
+  - DOMAIN-SUFFIX,swcdn.apple.com
+  - DOMAIN-SUFFIX,swdownload.apple.com
+  - DOMAIN-SUFFIX,swdist.apple.com
+  - DOMAIN-SUFFIX,smp-device-content.apple.com
+
+  # Samsung
+  - DOMAIN-SUFFIX,fota-cloud-dn.ospserver.net
+  - DOMAIN-SUFFIX,ospd.samsungcloud.com
+  - DOMAIN-SUFFIX,samsungdm.com
+  - DOMAIN-SUFFIX,samsungknox.com
+
+  # Xiaomi
+  - DOMAIN-SUFFIX,update.miui.com
+  - DOMAIN-SUFFIX,cdn.update.miui.com
+
+  # Huawei
+  - DOMAIN-SUFFIX,update.hicloud.com
+  - DOMAIN-SUFFIX,update.dbankcdn.com
+
+  # Oppo
+  - DOMAIN-SUFFIX,gauss.oppomobile.com
+  - DOMAIN-SUFFIX,infinitered.oppomobile.com
+
+  # Vivo
+  - DOMAIN-SUFFIX,ota-bb.vivo.com.cn
+  - DOMAIN-SUFFIX,ota-s.vivo.com.cn
+
+  # OnePlus
+  - DOMAIN-SUFFIX,otacdn.h2os.com # Untuk OxygenOS/HydrogenOS
+  - DOMAIN-SUFFIX,otacdn.us.oneplus.net
