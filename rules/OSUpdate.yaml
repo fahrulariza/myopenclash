@@ -9,7 +9,6 @@ payload:
 # https://github.com/CxZMoE/system_update_blocker/blob/master/system/etc/hosts
 
 
-  - DOMAIN-SUFFIX,updatesnl.macrium.com
 
 # ############################### WINDOWS ############################### #  
 #OS_Update_Windows
@@ -96,46 +95,6 @@ payload:
 # Domain ini berfungsi sebagai endpoint untuk pengumpulan data. Aplikasi atau situs web yang menggunakan Quantum Metric akan mengirimkan data perilaku pengguna ke server ini.
 # Data yang dikirim biasanya mencakup interaksi pengguna, seperti klik, scrolling, waktu kunjungan, dan tindakan lain yang dilakukan di aplikasi atau situs.
   - DOMAIN-SUFFIX,ingest.quantummetric.com
-
-
-### BROWSER ###
-  - DOMAIN-SUFFIX,download-installer.cdn.mozilla.net
-  - DOMAIN-SUFFIX,ChromeSetup.exe
-  - DOMAIN-SUFFIX,GoogleChromeEnterpriseBundle64.zip
-  - DOMAIN,update.googleapis.com # Cek update versi Chrome
-  - DOMAIN,tools.google.com # Layanan internal update
-  - DOMAIN,clients2.google.com # Server distribusi update
-  - DOMAIN,omahaproxy.appspot.com # Server informasi versi terbaru
-
-  - DOMAIN,aus5.mozilla.org # Server utama update otomatis Firefox
-  - DOMAIN,aus4.mozilla.org # Server cadangan update
-  - DOMAIN,download.mozilla.org # Download binary update
-  - DOMAIN-SUFFIX,update.mozilla.org # Cek info pembaruan
-  # - DOMAIN-SUFFIX,addons.mozilla.org # Hanya jika ingin blokir update ekstensi
-
-#DELL
-  - DOMAIN-SUFFIX,dl.dell.com
-  
-#IDM
-  - DOMAIN-SUFFIX,tonec.com
-  - DOMAIN-SUFFIX,www.tonec.com
-  - DOMAIN-SUFFIX,registeridm.com
-  - DOMAIN-SUFFIX,www.registeridm.com
-  - DOMAIN-SUFFIX,secure.registeridm.com
-  - DOMAIN-SUFFIX,internetdownloadmanager.com
-  - DOMAIN-SUFFIX,www.internetdownloadmanager.com
-  - DOMAIN-SUFFIX,secure.internetdownloadmanager.com
-  - DOMAIN-SUFFIX,mirror.internetdownloadmanager.com
-  - DOMAIN-SUFFIX,mirror2.internetdownloadmanager.com
-  - DOMAIN-SUFFIX,mirror3.internetdownloadmanager.com
-  - DOMAIN-SUFFIX,star.tonec.com
-
-#auslgics  
-  - DOMAIN-SUFFIX,auslogics.com
-  - DOMAIN-SUFFIX,auslgics.com
-  - DOMAIN-KEYWORD,auslogics
-  
-
 
 # Torrent-related Domains
 - DOMAIN-SUFFIX,bittorrent.com
