@@ -3,70 +3,11 @@ payload:
   # Block PlayStore Update
   #- DOMAIN-SUFFIX,gvt1.com
   #- DOMAIN-SUFFIX,gvt2.com
-#OS_Update_Android_Samsung
-# https://forum.samygo.tv/viewtopic.php?p=110316&sid=9f36a4f26fa101111c6440ba1f0494f7#p110316
-# https://phyks.me/2017/12/stop-networking-dear-samsung-tv.html
 
-  - DOMAIN,sammods.github.io
-  - DOMAIN-SUFFIX,sammods.github.io
-  - DOMAIN,googleadservices.com
-  # samsung fw update server
-  - DOMAIN-SUFFIX,msecnd.net   
-  - DOMAIN-SUFFIX,samsungotn.net
-  - DOMAIN-SUFFIX,otn.samsungcloudcdn.com
-  - DOMAIN-SUFFIX,samsungcloudsolution.net
-  - DOMAIN-SUFFIX,otn-prd-proxy.cloudapp.net
-  - DOMAIN-SUFFIX,az28248.vo.msecnd.net
-  - DOMAIN-SUFFIX,az43064.vo.msecnd.net
-  - DOMAIN-SUFFIX,osb-v2.samsungqbe.com
-  - DOMAIN-SUFFIX,org.downloadcenter.samsung.com
-  
-  # samsung apps related server, delete root widget
-  - DOMAIN-SUFFIX,osb-apps.samsungqbe.com
-  
-  # Samsung server (firmware)???
-  - DOMAIN-SUFFIX,cdn.samsungcloudsolution.com
-  - DOMAIN-SUFFIX,lcprd1.samsungcloudsolution.net # There is more similar. I will block it #(forced-entry)
-  - DOMAIN-SUFFIX,gpm.samsungqbe.com # NFI but I blocked it
-  - DOMAIN-SUFFIX,notice.samsungcloudsolution.com # some  notice from samsung
-  - DOMAIN-SUFFIX,osb-apps-v2.samsungqbe.com # some apps server. in case you can't install apps just whitelist this entry.
-  - DOMAIN-SUFFIX,osb-auth-eusvc-v2.samsungqbe.com # another shit for install apps, in you can't install whitelist this one too.
-  - DOMAIN-SUFFIX,samsungiotcloud.com # NFI, but it looks to be blocked also, just in case. (i think is SmarThings related)
-  - DOMAIN-SUFFIX,img-resize-cdn-prod.samsungnyc.com # it blocks pictures in smarthub apps. NOT necessary to block 
-  - DOMAIN-SUFFIX,gld.push.samsungosp.com # NFI. let's block it.
-  - DOMAIN-SUFFIX,ocfconnect-shard-eu02-euwest1.samsungiotcloud.com # some EU Samsung server for spying that's need to be blocked. To be continued......
-  - DOMAIN-SUFFIX,config.samsungads.com # ads related url 
 
 # OS_Update_Android_Xiaomi
 # https://github.com/CxZMoE/system_update_blocker/blob/master/system/etc/hosts
 
-# ############################### MIUI ############################### #
-  # block miui updates
-  - DOMAIN-SUFFIX,bigota.d.miui.com
-  - DOMAIN-SUFFIX,update.miui.com
-  - DOMAIN-SUFFIX,update.intl.miui.com
-  - DOMAIN-SUFFIX,tracking.india.miui.com
-  - DOMAIN-SUFFIX,api.setting.intl.miui.com
-  - DOMAIN-SUFFIX,market.xiaomi.com
-  - DOMAIN-SUFFIX,connect.intl.rom.miui.com
-  
-  # block system apps updates
-  - DOMAIN-SUFFIX,f2.market.xiaomi.com
-  - DOMAIN-SUFFIX,global.market.xiaomi.com
-  - DOMAIN-SUFFIX,file.market.xiaomi.com
-  - DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
-  
-  # block wallpaper carousel updates
-  - DOMAIN-SUFFIX,x-in.ls.glanceapis.com
-  
-  # block poco launcher updates
-  - DOMAIN-SUFFIX,api.accelerator.intl.miui.com
-
-#OS_Update_Apple_AppStore
-  - DOMAIN,iosapps.itunes.apple.com
-# Apple iOS Notification: https://support.apple.com/en-us/HT202944
-  - DST-PORT,2197
-  #- DST-PORT,5223
 
   - DOMAIN-SUFFIX,updatesnl.macrium.com
 
@@ -171,73 +112,6 @@ payload:
   - DOMAIN,download.mozilla.org # Download binary update
   - DOMAIN-SUFFIX,update.mozilla.org # Cek info pembaruan
   # - DOMAIN-SUFFIX,addons.mozilla.org # Hanya jika ingin blokir update ekstensi
-
-#### OS SMARTPHONE ####
-
-  # Samsung
-  - DOMAIN-SUFFIX,fota-cloud-dn.ospserver.net
-  - DOMAIN-SUFFIX,fota-cloud-dn.ospserver.sec.samsung.com
-  - DOMAIN-SUFFIX,osb-appssec.samsungdm.com
-  - DOMAIN-SUFFIX,cloud-neofota.samsungdm.com
-
-  # Xiaomi
-  - DOMAIN-SUFFIX,api.ad.xiaomi.com
-  - DOMAIN-SUFFIX,api.updater.xiaomi.com
-  - DOMAIN-SUFFIX,fota4.miui.com
-  - DOMAIN-SUFFIX,bigota.d.miui.com
-
-  # Sony
-  - DOMAIN-SUFFIX,fus.sonymobile.com
-  - DOMAIN-SUFFIX,softwareupdate.sonymobile.com
-
-  # Huawei
-  - DOMAIN-SUFFIX,query.hicloud.com
-  - DOMAIN-SUFFIX,update.dbankcdn.com
-  - DOMAIN-SUFFIX,update.hicloud.com
-
-  # Oppo/Vivo
-  - DOMAIN-SUFFIX,otafsg.otacdn.com
-  - DOMAIN-SUFFIX,otafsg1.coloros.com
-  - DOMAIN-SUFFIX,fs-android-coloros.com
-  - DOMAIN-SUFFIX,osg.coloros.com
-
-  # OnePlus
-  - DOMAIN-SUFFIX,otafsg1.h2os.com
-  - DOMAIN-SUFFIX,otafsg1.oxygenos.com
-
-  # Asus
-  - DOMAIN-SUFFIX,fwupd.asus.com
-  - DOMAIN-SUFFIX,ota.asus.com
-
-  # Lenovo/Motorola
-  - DOMAIN-SUFFIX,rsdk.lenovo.com
-  - DOMAIN-SUFFIX,rsdk.mot.com
-
-  # Google Pixel
-  - DOMAIN-SUFFIX,ota.googlezip.net
-  - DOMAIN-SUFFIX,updates.googleapis.com
-
-  # Realme
-  - DOMAIN-SUFFIX,otafsg1.realme.com
-
-  # Apple OS Update
-  - DOMAIN-SUFFIX,appldnld.apple.com
-  - DOMAIN-SUFFIX,mesu.apple.com
-  - DOMAIN-SUFFIX,oscdn.apple.com
-  - DOMAIN-SUFFIX,updates.cdn-apple.com
-  - DOMAIN-SUFFIX,iphonesoftwareupdates.apple.com
-  - DOMAIN-SUFFIX,albert.apple.com
-  - DOMAIN-SUFFIX,gs.apple.com
-
-#VIVO
-  - DOMAIN-SUFFIX,vivoglobal.com
-
-#OPPO
-  - DOMAIN-SUFFIX,assorted.downloads.oppo.com
-  - DOMAIN-SUFFIX,ifota.coloros.com
-
-#REALME
-  - DOMAIN-SUFFIX,realme.net
 
 #DELL
   - DOMAIN-SUFFIX,dl.dell.com
