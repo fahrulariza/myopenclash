@@ -24,3 +24,5 @@ payload:
   - DOMAIN-SUFFIX,ntp.huaweicloud.com
   - DOMAIN-SUFFIX,sg.pool.ntp.org
   - DOMAIN-SUFFIX,time.cloudflare.com
+  - DOMAIN-SUFFIX,nist.gov
+  - DOMAIN-SUFFIX,clock.nyc.he.net
