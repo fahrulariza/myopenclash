@@ -1,12 +1,5 @@
 payload:
 
-  - DOMAIN-SUFFIX,theclassicpangu.com,🎮 PLAY-IN-GAME,no-resolve
-  - DOMAIN-SUFFIX,auth.pwsl.net,🎮 PLAY-IN-GAME,no-resolve
-  - DOMAIN-SUFFIX,gamenoticepw.lytogame.com,🎮 PLAY-IN-GAME,no-resolve
-  - DST-PORT,29000,🎮 PLAY-IN-GAME,no-resolve
-  - DST-PORT,29001,🎮 PLAY-IN-GAME,no-resolve
-  - DST-PORT,29002,🎮 PLAY-IN-GAME,no-resolve
-  - DST-PORT,29003,🎮 PLAY-IN-GAME,no-resolve
 # Counter-Strike 2 (CS2)
 ## - DST-PORT,3478,4379-4380,PLAY-IN-GAME 🎮,udp  # Steam voice chat (P2P) = port 3478 sama dengan whatsapp call
   # ################################################################################################################################
