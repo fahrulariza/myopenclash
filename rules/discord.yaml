@@ -44,7 +44,7 @@ payload:
   - DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
   - DOMAIN-SUFFIX,watchanimeattheoffice.com
 
-
+  - IP-CIDR,104.16.59.5/32
   - IP-CIDR,104.17.117.93/32
   - IP-CIDR,104.17.51.93/32
   - IP-CIDR,104.21.112.1/32
