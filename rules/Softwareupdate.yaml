@@ -1,5 +1,6 @@
 payload:
-
+  - DOMAIN-SUFFIX,balena-cloud.com
+  - DOMAIN-SUFFIX,balena.io
   - DOMAIN-SUFFIX,updatesnl.macrium.com
 ### BROWSER ###
   - DOMAIN-SUFFIX,download-installer.cdn.mozilla.net
