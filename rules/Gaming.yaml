@@ -219,7 +219,7 @@ payload:
   - DST-PORT,10000-10030,PLAY-IN-GAME 🎮,udp # In-Game Battle Server	
   - DST-PORT,17000-18000,PLAY-IN-GAME 🎮,udp # Matchmaking
  # - DST-PORT,8000-9000,PLAY-IN-GAME 🎮,tcp # Lobby Connection	
-  - DST-PORT,50000-60000,PLAY-IN-GAME 🎮,udp # Voice Chat (bawaan game)	
+#  - DST-PORT,50000-60000,PLAY-IN-GAME 🎮,udp # Voice Chat (bawaan game)	
 
   # 🎮 Honor of Kings - Domain Real-Time
   - DOMAIN-SUFFIX,cloud.ttarena.com,PLAY-IN-GAME 🎮 # (HoK server utama Tencent)
@@ -230,7 +230,7 @@ payload:
   # Real-Time Gameplay & Matchmaking (UDP & TCP)
   - DST-PORT,15000-15099,PLAY-IN-GAME 🎮,udp
   - DST-PORT,20000-20099,PLAY-IN-GAME 🎮,udp
-  - DST-PORT,50000-50099,PLAY-IN-GAME 🎮,udp
+#  - DST-PORT,50000-50099,PLAY-IN-GAME 🎮,udp
 #  - DST-PORT,8080,PLAY-IN-GAME 🎮,tcp
 
   # Voice Communication (UDP)
@@ -252,7 +252,7 @@ payload:
 
 # 🎮 eFootball Mobile - Real-Time Gameplay, Matchmaking, Lobby, Voice
   # Real-Time Gameplay & Matchmaking (UDP & TCP)
-  - DST-PORT,50000-50099,PLAY-IN-GAME 🎮,udp
+#  - DST-PORT,50000-50099,PLAY-IN-GAME 🎮,udp
   - DST-PORT,60000-60099,PLAY-IN-GAME 🎮,udp
   - DST-PORT,70000-70099,PLAY-IN-GAME 🎮,udp
 #  - DST-PORT,8080,PLAY-IN-GAME 🎮,tcp
