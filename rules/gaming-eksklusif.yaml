@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN-SUFFIX,theclassicpangu.com,🎮 PLAY-IN-GAME,no-resolve
+  - DOMAIN-SUFFIX,auth.pwsl.net,🎮 PLAY-IN-GAME,no-resolve
+  - DOMAIN-SUFFIX,gamenoticepw.lytogame.com,🎮 PLAY-IN-GAME,no-resolve
+  - DST-PORT,29000,🎮 PLAY-IN-GAME,no-resolve
+  - DST-PORT,29001,🎮 PLAY-IN-GAME,no-resolve
+  - DST-PORT,29002,🎮 PLAY-IN-GAME,no-resolve
+  - DST-PORT,29003,🎮 PLAY-IN-GAME,no-resolve
