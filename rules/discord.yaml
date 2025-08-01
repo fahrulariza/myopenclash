@@ -5,6 +5,9 @@
 # DOMAIN-SUFFIX: 29
 # TOTAL: 29
 payload:
+  - IP-CIDR,35.215.146.191/32
+  - DST-PORT,50004
+
   - IP-CIDR,162.159.128.0/19
   - DOMAIN-KEYWORD,discord
   - DOMAIN-SUFFIX,media.discordapp.net
@@ -1708,3 +1711,4 @@ payload:
   - IP-CIDR,34.0.250.90/32
   - IP-CIDR,34.0.251.17/32
   - IP-CIDR,34.0.251.86/32
+
