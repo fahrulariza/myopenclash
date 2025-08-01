@@ -203,7 +203,7 @@ payload:
 # 🎮 eFootball Real-Time Gameplay (in-game, matchmaking, lobby) PRIORITY
   - DST-PORT,3659,PLAY-IN-GAME 🎮,udp # Kadang digunakan untuk sesi pertandingan (mirip FIFA).
   - DST-PORT,5730-5739,PLAY-IN-GAME 🎮,udp # Gameplay real-time (in-game)	
-  - DST-PORT,5000-5200,PLAY-IN-GAME 🎮,udp # Matchmaking & lobby	
+#  - DST-PORT,5000-5200,PLAY-IN-GAME 🎮,udp # Matchmaking & lobby	
   - DOMAIN-SUFFIX,fesl.konami.net,PLAY-IN-GAME 🎮,udp # Login ke server eFootball
   - DOMAIN-SUFFIX,efootball.konami.net,PLAY-IN-GAME 🎮,udp # Login ke server eFootball
   - IP-CIDR,125.6.189.0/24,PLAY-IN-GAME 🎮,udp # IP server eFootball (khusus region Asia)
