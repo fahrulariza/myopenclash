@@ -5,7 +5,7 @@ payload:
   # ################################################################################################################################
   # 🎮 Roblox Real-Time Traffic ####################################################################################################
   # ################################################################################################################################
-#  - DST-PORT,49152-65535,PLAY-IN-GAME 🎮,udp  # Dynamic UDP port untuk in-game traffic ini adalah port UDP dinamis yang digunakan untuk real-time game traffic, termasuk gerakan pemain, aksi, dan interaksi dalam game. Ini adalah inti dari performa game.
+  - DST-PORT,49152-65535,PLAY-IN-GAME 🎮,udp  # Dynamic UDP port untuk in-game traffic ini adalah port UDP dinamis yang digunakan untuk real-time game traffic, termasuk gerakan pemain, aksi, dan interaksi dalam game. Ini adalah inti dari performa game.
   - DOMAIN-SUFFIX,realtime.roblox.com,PLAY-IN-GAME 🎮,tcp # mengelola sinkronisasi data dan komunikasi real-time backend dari Roblox.
   # 🎮 PLAY-IN-GAME - Lalu Lintas Realtime / Game Servers
   - IP-CIDR,128.116.0.0/17,🎮 PLAY-IN-GAME,no-resolve # Rentang utama Roblox, seringkali untuk server game
