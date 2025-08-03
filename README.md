@@ -1,1 +1,1 @@
-# ReyreOpenClash
+# MyOpenClash Setting
