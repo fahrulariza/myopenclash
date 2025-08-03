@@ -38,3 +38,12 @@ payload:
   - DOMAIN-SUFFIX,auslogics.com
   - DOMAIN-SUFFIX,auslgics.com
   - DOMAIN-KEYWORD,auslogics
+
+  - DOMAIN-SUFFIX,samsungapps.com
+    # aka-dn.gw.samsungapps.com:443	
+    # ureca.samsungapps.com:443	
+    # id-odc.samsungapps.com:443	
+    # img.samsungapps.com:443	
+    # api.samsungconsent.com:443	
+    # gmp.samsungapps.com:443	
+    # sspapi-prd.samsungrs.com:443	
