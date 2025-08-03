@@ -6,3 +6,5 @@ payload:
   - DST-PORT,29001,🎮 PLAY-IN-GAME,no-resolve
   - DST-PORT,29002,🎮 PLAY-IN-GAME,no-resolve
   - DST-PORT,29003,🎮 PLAY-IN-GAME,no-resolve
+  
+  - DOMAIN-SUFFIX,summonerswar-sea-lb.qpyou.cn,🎮 PLAY-IN-GAME,no-resolve
