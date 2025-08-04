@@ -66,6 +66,7 @@ payload:
 # 🎮 Mobile Legends Real-Time Gameplay (Matchmaking, Lobby, Voice Chat) ######################################################################################
 # Menggunakan port TCP untuk gameplay utama, matchmaking, komunikasi suara
   # Port untuk gameplay utama dan matchmaking
+  - DST-PORT,62586,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
 
 
   
