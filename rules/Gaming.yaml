@@ -6,7 +6,6 @@ payload:
   # 🎮 Roblox Real-Time Traffic ####################################################################################################
   # ################################################################################################################################
 #  - DST-PORT,49152-65535,PLAY-IN-GAME 🎮,udp  # Dynamic UDP port untuk in-game traffic ini adalah port UDP dinamis yang digunakan untuk real-time game traffic, termasuk gerakan pemain, aksi, dan interaksi dalam game. Ini adalah inti dari performa game.
-  - DOMAIN-SUFFIX,realtime.roblox.com,PLAY-IN-GAME 🎮,tcp # mengelola sinkronisasi data dan komunikasi real-time backend dari Roblox.
   # 🎮 PLAY-IN-GAME - Lalu Lintas Realtime / Game Servers
   - IP-CIDR,128.116.0.0/17,🎮 PLAY-IN-GAME,no-resolve # Rentang utama Roblox, seringkali untuk server game
   - IP-CIDR,128.116.50.0/24,🎮 PLAY-IN-GAME,no-resolve # Contoh rentang spesifik Singapura untuk game
@@ -58,15 +57,14 @@ payload:
   - IP-CIDR,2620:2b:e000::/48,🎮 PLAY-IN-GAME,no-resolve
   - IP-CIDR,2620:135:6000::/40,🎮 PLAY-IN-GAME,no-resolve
 
-  # Aturan berdasarkan domain untuk memastikan semua lalu lintas Roblox tercakup
-  # Biasanya, ini cocok untuk lalu lintas web, API, dan beberapa unduhan.
-  - DOMAIN-SUFFIX,roblox.com,🕹️ DOWNLOAD-ASSET-GAME
+  - DST-PORT,57770,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
 
 
 # 🎮 Mobile Legends Real-Time Gameplay (Matchmaking, Lobby, Voice Chat) ######################################################################################
 # Menggunakan port TCP untuk gameplay utama, matchmaking, komunikasi suara
   # Port untuk gameplay utama dan matchmaking
   - DST-PORT,62586,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
+  
 
 
   
