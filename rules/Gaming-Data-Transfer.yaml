@@ -77,6 +77,7 @@ payload:
 
 # Summoners War
   - DOMAIN-SUFFIX,qpyou.cn,DOWNLOAD-ASSET-GAME 🕹️,tcp
+  - DOMAIN-SUFFIX,appguard.co.kr,DOWNLOAD-ASSET-GAME 🕹️,tcp
 
 # STEAM/DOTA 2
   - DST-PORT,27015-27030,DOWNLOAD-ASSET-GAME 🕹️,tcp # Matchmaking & statistik
