@@ -57,7 +57,11 @@ payload:
   - IP-CIDR,2620:2b:e000::/48,🎮 PLAY-IN-GAME,no-resolve
   - IP-CIDR,2620:135:6000::/40,🎮 PLAY-IN-GAME,no-resolve
 
+  - DST-PORT,13502,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
+  - DST-PORT,52854,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
+  - DST-PORT,56451,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama  
   - DST-PORT,57770,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
+  
 
 
 # 🎮 Mobile Legends Real-Time Gameplay (Matchmaking, Lobby, Voice Chat) ######################################################################################
