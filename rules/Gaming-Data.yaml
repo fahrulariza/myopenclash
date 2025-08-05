@@ -1,5 +1,11 @@
 payload:
 
+
+  # Aturan berdasarkan domain untuk memastikan semua lalu lintas Roblox tercakup
+  # Biasanya, ini cocok untuk lalu lintas web, API, dan beberapa unduhan.
+  - DOMAIN-SUFFIX,roblox.com,DOWNLOAD-DATA-GAME 🕹️
+  - DOMAIN-SUFFIX,realtime.roblox.com,DOWNLOAD-DATA-GAME 🕹️,tcp # mengelola sinkronisasi data dan komunikasi real-time backend dari Roblox.
+
 # > Supercell
 - DOMAIN-SUFFIX,supercell.com
 - DOMAIN-SUFFIX,supercell.helpshift.com
