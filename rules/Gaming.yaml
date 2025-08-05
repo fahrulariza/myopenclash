@@ -59,6 +59,8 @@ payload:
 
   - DST-PORT,13502,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
   - DST-PORT,52854,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
+  - DST-PORT,54323,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
+  - DST-PORT,54818,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
   - DST-PORT,56451,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama  
   - DST-PORT,57770,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
   
