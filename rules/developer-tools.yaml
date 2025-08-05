@@ -1,8 +1,8 @@
 payload:
 
-
   - DOMAIN,api.pdtm.sh
   - DOMAIN,crt.sh
+  - DOMAIN-SUFFIX,downloads.openwrt.org
   - DOMAIN-SUFFIX,pdtm.sh
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
