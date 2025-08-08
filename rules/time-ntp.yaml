@@ -26,3 +26,7 @@ payload:
   - DOMAIN-SUFFIX,time.cloudflare.com
   - DOMAIN-SUFFIX,nist.gov
   - DOMAIN-SUFFIX,clock.nyc.he.net
+  - DOMAIN-SUFFIX,clock.via.net
+  - DOMAIN-SUFFIX,clock.sjc.he.net
+  - DOMAIN-SUFFIX,time.cachenetworks.com
+  - DST-PORT,123,NTP-CLIENT,udp
