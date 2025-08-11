@@ -1,4 +1,5 @@
 # Download Data (tcp - untuk autentikasi, matchmaking, statis content, dll.)
+# INI BAGIAN dari RULE 'DOWNLOAD-ASSET-GAME 🕹️'
 payload:
 # 📥 Valve Corporation
   - IP-CIDR,45.121.184.0/24,DOWNLOAD-ASSET-GAME 🕹️,tcp    #  Japan (JP)
