@@ -1,12 +1,18 @@
 payload:
-  - DOMAIN-SUFFIX,theclassicpangu.com,🎮 PLAY-IN-GAME,no-resolve
-  - DOMAIN-SUFFIX,auth.pwsl.net,🎮 PLAY-IN-GAME,no-resolve
-  - DOMAIN-SUFFIX,gamenoticepw.lytogame.com,🎮 PLAY-IN-GAME,no-resolve
-  - DST-PORT,29000,🎮 PLAY-IN-GAME,no-resolve
-  - DST-PORT,29001,🎮 PLAY-IN-GAME,no-resolve
-  - DST-PORT,29002,🎮 PLAY-IN-GAME,no-resolve
-  - DST-PORT,29003,🎮 PLAY-IN-GAME,no-resolve
+  - DOMAIN-SUFFIX,theclassicpangu.com,Gaming-Eksklusif,no-resolve
+  - DOMAIN-SUFFIX,auth.pwsl.net,Gaming-Eksklusif,no-resolve
+  - DOMAIN-SUFFIX,gamenoticepw.lytogame.com,Gaming-Eksklusif,no-resolve
+  - DST-PORT,29000,Gaming-Eksklusif,no-resolve
+  - DST-PORT,29001,Gaming-Eksklusif,no-resolve
+  - DST-PORT,29002,Gaming-Eksklusif,no-resolve
+  - DST-PORT,29003,Gaming-Eksklusif,no-resolve
   
-  - DOMAIN-SUFFIX,summonerswar-sea-lb.qpyou.cn,🎮 PLAY-IN-GAME,no-resolve
-  - DOMAIN-SUFFIX,ch03-socketg-gsp.qpyou.cn,🎮 PLAY-IN-GAME,no-resolve
-  - DST-PORT,11002,🎮 PLAY-IN-GAME,no-resolve
+  - DOMAIN-SUFFIX,summonerswar-sea-lb.qpyou.cn,Gaming-Eksklusif,no-resolve
+  - DOMAIN-SUFFIX,ch03-socketg-gsp.qpyou.cn,Gaming-Eksklusif,no-resolve
+  - DOMAIN-SUFFIX,cp-hub.qpyou.cn,Gaming-Eksklusif,no-resolve
+  - DOMAIN-SUFFIX,activeuser.qpyou.cn,Gaming-Eksklusif,no-resolve
+  - DOMAIN-SUFFIX,adult-auth.qpyou.cn,Gaming-Eksklusif,no-resolve
+  - DOMAIN-SUFFIX,api-profile.qpyou.cn,Gaming-Eksklusif,no-resolve
+  - DOMAIN-SUFFIX,hiveiap.qpyou.cn,Gaming-Eksklusif,no-resolve
+  - DOMAIN-SUFFIX,analytics-ccu.qpyou.cn,Gaming-Eksklusif,no-resolve
+  - DST-PORT,11002,Gaming-Eksklusif,no-resolve
