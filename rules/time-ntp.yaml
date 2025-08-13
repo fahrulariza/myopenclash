@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,time.windows.com
   - DOMAIN-SUFFIX,time.apple.com
   - DOMAIN-SUFFIX,time.nist.gov
+  - DOMAIN-SUFFIX,time.cachenetworks.com
+  - DOMAIN-SUFFIX,time.android.com
   - DOMAIN-SUFFIX,ntp.org
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,time.google.com
@@ -28,5 +30,5 @@ payload:
   - DOMAIN-SUFFIX,clock.nyc.he.net
   - DOMAIN-SUFFIX,clock.via.net
   - DOMAIN-SUFFIX,clock.sjc.he.net
-  - DOMAIN-SUFFIX,time.cachenetworks.com
+  - DOMAIN-SUFFIX,nts.sth1.ntp.se
   - DST-PORT,123,NTP-CLIENT,udp
