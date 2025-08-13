@@ -174,36 +174,36 @@ payload:
   - DST-PORT,5100,PLAY-IN-GAME 🎮,udp
 
 # Summoners War
-  - DOMAIN,summonerswar-cn-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-cn-t.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-cn.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-eu-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-eu.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-fn.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-gb-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-gb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-h-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-hub.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-jp-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-jp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-kr-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-sea-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-sea.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,summonerswar-sea-lb.qpyou.cn.akadns.net,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,hive-fn.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,cli-api-chatg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,ch01-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,ch02-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,ch03-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,ch04-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,ch05-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,ch06-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,ch07-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,ch08-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,ch09-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,ch10-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - DOMAIN,tcpanalytics-log.qpyou.cn,PLAY-IN-GAME 🎮,tcp
-  - IP-CIDR,96.7.152.197,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-cn-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-cn-t.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-cn.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-eu-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-eu.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-fn.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-gb-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-gb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-h-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-hub.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-jp-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-jp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-kr-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-sea-lb.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-sea.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,summonerswar-sea-lb.qpyou.cn.akadns.net,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,hive-fn.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,cli-api-chatg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,ch01-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,ch02-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,ch03-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,ch04-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,ch05-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,ch06-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,ch07-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,ch08-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,ch09-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,ch10-socketg-gsp.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - DOMAIN,tcpanalytics-log.qpyou.cn,PLAY-IN-GAME 🎮,tcp
+#  - IP-CIDR,96.7.152.197,PLAY-IN-GAME 🎮,tcp
 
 
 # 🎮 eFootball Real-Time Gameplay (in-game, matchmaking, lobby) PRIORITY
