@@ -15,4 +15,5 @@ payload:
   - DOMAIN-SUFFIX,api-profile.qpyou.cn,Gaming-Eksklusif,no-resolve
   - DOMAIN-SUFFIX,hiveiap.qpyou.cn,Gaming-Eksklusif,no-resolve
   - DOMAIN-SUFFIX,analytics-ccu.qpyou.cn,Gaming-Eksklusif,no-resolve
+  - DOMAIN-SUFFIX,mgr.gameguard.co.kr,Gaming-Eksklusif,no-resolve
   - DST-PORT,11002,Gaming-Eksklusif,no-resolve
