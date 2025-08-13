@@ -47,4 +47,6 @@ payload:
     # img.samsungapps.com:443	
     # api.samsungconsent.com:443	
     # gmp.samsungapps.com:443	
-    # sspapi-prd.samsungrs.com:443	
+    # sspapi-prd.samsungrs.com:443
+
+  - DOMAIN-SUFFIX,facemojikeyboard.com
