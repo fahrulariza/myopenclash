@@ -33,7 +33,6 @@ payload:
   - DOMAIN-SUFFIX,ctldl.windowsupdate.com
   - DOMAIN-SUFFIX,fg.microsoft.map.fastly.net
 
-  - DOMAIN-SUFFIX,geover.prod.do.dsp.mp.microsoft.com
   - DOMAIN-SUFFIX,ws.microsoft.com
   - DOMAIN-SUFFIX,au.windowsupdate.microsoft.com
   - DOMAIN-SUFFIX,sls.microsoft.com
@@ -52,14 +51,11 @@ payload:
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,download.microsoft.com
   - DOMAIN-SUFFIX,au.download.windowsupdate.com
-  - DOMAIN-SUFFIX,tsfe.trafficshaping.dsp.mp.microsoft.com
   - DOMAIN-SUFFIX,statsfe2.ws.microsoft.com
   - DOMAIN-SUFFIX,download.windowsupdate.com.c.footprint.net
   - DOMAIN-SUFFIX,download.windowsupdate.com.edgesuite.net
-  - DOMAIN-SUFFIX,delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,tsfe.blu.livefilestore.com
   - DOMAIN-SUFFIX,windowsupdate.microsoft.com
-  - DOMAIN-SUFFIX,fe3.delivery.dsp.mp.microsoft.com
   - DOMAIN-SUFFIX,statsfe1.ws.microsoft.com
   - DOMAIN-SUFFIX,update.microsoft.com.edgesuite.net
   - DOMAIN-SUFFIX,ws.microsoft.com
