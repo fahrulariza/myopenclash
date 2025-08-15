@@ -12,11 +12,21 @@ payload:
   - DOMAIN,clients2.google.com # Server distribusi update
   - DOMAIN,omahaproxy.appspot.com # Server informasi versi terbaru
 
+# - DOMAIN-SUFFIX,addons.mozilla.org # Hanya jika ingin blokir update ekstensi
   - DOMAIN,aus5.mozilla.org # Server utama update otomatis Firefox
   - DOMAIN,aus4.mozilla.org # Server cadangan update
   - DOMAIN,download.mozilla.org # Download binary update
   - DOMAIN-SUFFIX,update.mozilla.org # Cek info pembaruan
-  # - DOMAIN-SUFFIX,addons.mozilla.org # Hanya jika ingin blokir update ekstensi
+
+#OS_Update_Windows
+  - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
+  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,mp.microsoft.com
+  - DOMAIN-SUFFIX,mp.microsoft.com
+  - DOMAIN-SUFFIX,mp.microsoft.com
+  - DOMAIN-SUFFIX,graph.microsoft.com
 
 #DELL
   - DOMAIN-SUFFIX,dl.dell.com
