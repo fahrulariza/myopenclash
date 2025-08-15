@@ -20,6 +20,7 @@ payload:
   
 #AMD Driver
   - DOMAIN-SUFFIX,drivers.amd.com
+  - DOMAIN-SUFFIX,ati.com
 
 #OS_Update_Windows
   - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
