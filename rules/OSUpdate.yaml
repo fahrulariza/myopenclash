@@ -12,7 +12,7 @@ payload:
 
 # ############################### WINDOWS ############################### #  
 #OS_Update_Windows
-  - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
+
   - DOMAIN-SUFFIX,download.windowsupdate.com
   - DOMAIN-SUFFIX,windowsupdate.microsoft.com
   - DOMAIN-SUFFIX,update.microsoft.com
@@ -32,23 +32,19 @@ payload:
   - DOMAIN-SUFFIX,windowsupdatebg.s.llnwi.net
   - DOMAIN-SUFFIX,ctldl.windowsupdate.com
   - DOMAIN-SUFFIX,fg.microsoft.map.fastly.net
-  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
-  - DOMAIN-SUFFIX,delivery.mp.microsoft.com
-  - DOMAIN-SUFFIX,mp.microsoft.com
+
   - DOMAIN-SUFFIX,geover.prod.do.dsp.mp.microsoft.com
   - DOMAIN-SUFFIX,ws.microsoft.com
   - DOMAIN-SUFFIX,au.windowsupdate.microsoft.com
   - DOMAIN-SUFFIX,sls.microsoft.com
   - DOMAIN-SUFFIX,fe2.update.microsoft.com
   - DOMAIN-SUFFIX,test.update.microsoft.com
-  - DOMAIN-SUFFIX,mp.microsoft.com
   - DOMAIN-SUFFIX,edge.microsoft.com
   - DOMAIN-SUFFIX,microsoft.map.fastly.net
   - DOMAIN-SUFFIX,data.microsoft.com
   - DOMAIN-SUFFIX,microsoft.com.akadns.net
   - DOMAIN-SUFFIX,api.microsoft.com	
   - DOMAIN-SUFFIX,notify.trafficmanager.net #omain ini digunakan oleh Windows Notification Service untuk mengelola dan menyampaikan notifikasi push ke aplikasi yang berjalan di perangkat Windows. (real time)
-  - DOMAIN-SUFFIX,mp.microsoft.com
   - DOMAIN-SUFFIX,office.trafficmanager.net
   - DOMAIN-SUFFIX,activity.windows.com
   - DOMAIN-KEYWORD,windowsupdate
