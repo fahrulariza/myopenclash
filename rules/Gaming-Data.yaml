@@ -1,6 +1,6 @@
 payload:
 
-
+- DOMAIN-SUFFIX,games.googleapis.com
   # Aturan berdasarkan domain untuk memastikan semua lalu lintas Roblox tercakup
   # Biasanya, ini cocok untuk lalu lintas web, API, dan beberapa unduhan.
   - DOMAIN-SUFFIX,roblox.com,DOWNLOAD-DATA-GAME 🕹️
