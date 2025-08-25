@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,gradle.org
   - DOMAIN-SUFFIX,gnu.org
   - DOMAIN-SUFFIX,w3.org
+  - DOMAIN-SUFFIX,genymotion.com
 
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gitlab
