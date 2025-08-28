@@ -1,5 +1,9 @@
 payload:
 
+# url costum
+- DOMAIN-SUFFIX,fuyuki.pw # api decrypt & encryptsign
+
+
 # &gt; LIST Domain Bank di Indonesia
 - DOMAIN-SUFFIX,bri.co.id
 - DOMAIN-SUFFIX,brimo.bri.co.id
