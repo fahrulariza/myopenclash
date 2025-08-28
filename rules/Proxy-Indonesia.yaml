@@ -1,8 +1,11 @@
 
 payload:
-# Mulai baris ini kebawah bisa di edit/hapus
+
+# URL Costum
+- DOMAIN-SUFFIX,fuyuki.pw # api decrypt & encryptsign
 - DOMAIN-SUFFIX,tancap88.digital
 
+# Mulai baris ini kebawah bisa di edit/hapus
 
 - IP-CIDR,185.206.24.0/22
 - IP-CIDR,66.203.126.0/23
