@@ -45,7 +45,6 @@ payload:
   - DOMAIN,voicemod.net
   - DOMAIN,runwayml.com
   - DOMAIN,www.picso.ai
-  - DOMAIN,gemini.google.com
   
   - DOMAIN,deepseek.com,RP-Engine-AI 💻,tcp # Akses langsung
   - DOMAIN,chat.deepseek.com.cdn.cloudflare.net,RP-Engine-AI 💻,tcp # Akses langsung
@@ -63,3 +62,18 @@ payload:
   - DOMAIN-SUFFIX,api.hackertarget.com
   - DOMAIN-SUFFIX,asn.shadowserver.org
   - DOMAIN-SUFFIX,urlscan.io
+
+  - DOMAIN,gemini.google.com
+  - DOMAIN,ai.google.dev
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-KEYWORD,generativelanguage
