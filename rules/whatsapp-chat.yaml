@@ -29,3 +29,21 @@ payload:
   - DST-PORT,5222,tcp # (XMPP Protocol) Fungsi: Komunikasi utama untuk pesan teks. WhatsApp menggunakan protokol XMPP untuk mengirim dan menerima pesan.
   - DST-PORT,5223,tcp # (Secure XMPP) Fungsi: Versi aman dari XMPP, digunakan jika koneksi memerlukan enkripsi tambahan.
   - DST-PORT,5288,tcp # Digunakan untuk sesi perpesanan dan komunikasi tambahan
+
+  - DOMAIN,graph.facebook.com
+  - DOMAIN-SUFFIX,bintray.com
+  - DOMAIN-SUFFIX,whatsapp.biz
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-KEYWORD,whatsapp
+  - IP-CIDR,158.85.224.160/27
+  - IP-CIDR,158.85.46.128/27
+  - IP-CIDR,158.85.5.192/27
+  - IP-CIDR,173.192.222.160/27
+  - IP-CIDR,173.192.231.32/27
+  - IP-CIDR,18.194.0.0/15
+  - IP-CIDR,184.173.128.0/17
+  - IP-CIDR,208.43.122.128/27
+  - IP-CIDR,34.224.0.0/12
+  - IP-CIDR,50.22.198.204/30
+  - IP-CIDR,54.242.0.0/15
