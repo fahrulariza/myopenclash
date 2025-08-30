@@ -33,6 +33,9 @@ payload:
   - IP-CIDR,128.116.123.0/24,🎮 PLAY-IN-GAME,no-resolve # Frankfurt
   - IP-CIDR,128.116.124.0/24,🎮 PLAY-IN-GAME,no-resolve # Warsaw
   - IP-CIDR,128.116.127.0/24,🎮 PLAY-IN-GAME,no-resolve # Miami
+  
+  # IP Tunggal Roblox
+  - IP-CIDR,43.207.128.243/32,🎮 PLAY-IN-GAME,no-resolve
 
   # 🕹️ DOWNLOAD-ASSET-GAME - Web/API/HTTPS TCP & Aset Unduhan
   - IP-CIDR,23.173.192.0/24,🕹️ DOWNLOAD-ASSET-GAME,no-resolve
@@ -64,7 +67,7 @@ payload:
   - DST-PORT,55636,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
   - DST-PORT,56451,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama
   - DST-PORT,56477,PLAY-IN-GAME 🎮,udp   # TCP untuk gameplay utama
-  - DST-PORT,57770,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama  43.207.128.243
+  - DST-PORT,57770,PLAY-IN-GAME 🎮,tcp   # TCP untuk gameplay utama  
 
   
 
