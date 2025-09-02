@@ -3,7 +3,7 @@ payload:
 # url costum
 - DOMAIN-SUFFIX,fuyuki.pw # api decrypt & encryptsign myxl-cli
 - DOMAIN-SUFFIX,crypto.mashu.lol # api decrypt & encryptsign myxl-cli
-
+- DOMAIN-SUFFIX,sahabatssh.com,Gaming-Eksklusif,no-resolve # Penjual VPN
 
 # &gt; LIST Domain Bank di Indonesia
 - DOMAIN-SUFFIX,bri.co.id
