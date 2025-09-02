@@ -1,5 +1,5 @@
-no-resolve
-lve:
+payload:
+
   - DOMAIN-SUFFIX,theclassicpangu.com,Gaming-Eksklusif,no-resolve
   - DOMAIN-SUFFIX,auth.pwsl.net,Gaming-Eksklusif,no-resolve
   - DOMAIN-SUFFIX,gamenoticepw.lytogame.com,Gaming-Eksklusif,no-resolve
