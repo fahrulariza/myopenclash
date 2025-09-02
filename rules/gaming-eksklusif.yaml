@@ -21,4 +21,3 @@ payload:
   - DOMAIN-SUFFIX,mgr.gameguard.co.kr,Gaming-Eksklusif,no-resolve
   - DOMAIN-SUFFIX,group-com2us-gateway.appguard.co.kr,Gaming-Eksklusif,no-resolve
   - DST-PORT,11002,Gaming-Eksklusif,no-resolve
-  - DOMAIN-SUFFIX,sahabatssh.com,Gaming-Eksklusif,no-resolve
