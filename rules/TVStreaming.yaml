@@ -2,6 +2,8 @@ payload:
 # Mulai baris ini kebawah bisa di edit/hapus
 # &gt; LIST Streaming IP/Lokasi Wajib Indo
 
+  - DOMAIN-SUFFIX,tv
+
 #IPTV      
   - DOMAIN-SUFFIX,transvision.co.id
   - DOMAIN-SUFFIX,mncnow.id
