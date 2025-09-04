@@ -55,7 +55,7 @@ payload:
 - DOMAIN-SUFFIX,browser-intake-datadoghq.eu
 
 # DOMAIN-KEYWORD untuk kata kunci yang sering muncul di domain pemerintahan
-- DOMAIN-KEYWORD,go.id
+# - DOMAIN-KEYWORD,go.id
 - DOMAIN-KEYWORD,pemda
 - DOMAIN-KEYWORD,pemkab
 - DOMAIN-KEYWORD,pemkot
