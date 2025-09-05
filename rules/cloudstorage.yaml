@@ -15,6 +15,7 @@ payload:
   - PROCESS-NAME,com.google.android.apps.docs
   - PROCESS-NAME,com.google.android.apps.docs
   - PROCESS-NAME,drive.usercontent.google.com
+  - DOMAIN,photos.fife.usercontent.google.com
 
 # Dropbox
   - DOMAIN,www.dropbox.com
