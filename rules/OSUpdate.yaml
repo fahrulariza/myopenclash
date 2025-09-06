@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,windowsupdatebg.s.llnwi.net
   - DOMAIN-SUFFIX,ctldl.windowsupdate.com
   - DOMAIN-SUFFIX,fg.microsoft.map.fastly.net
+  - DOMAIN-SUFFIX,tse1.mm.bing.net
 
   - DOMAIN-SUFFIX,ws.microsoft.com
   - DOMAIN-SUFFIX,au.windowsupdate.microsoft.com
