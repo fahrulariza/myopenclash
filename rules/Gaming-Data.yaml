@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,realtime.roblox.com,DOWNLOAD-DATA-GAME 🕹️,tcp # mengelola sinkronisasi data dan komunikasi real-time backend dari Roblox.
 
 # RVGL Re-Volt 1999
+- DOMAIN-SUFFIX,aliasrevoltmaster.com
+- DOMAIN-SUFFIX,re-volt.gitlab.io
 - DOMAIN-SUFFIX,distribute.re-volt.io
 
 # > Supercell
