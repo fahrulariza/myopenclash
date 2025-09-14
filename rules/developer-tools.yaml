@@ -111,3 +111,4 @@ payload:
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,api.aladhan.com
