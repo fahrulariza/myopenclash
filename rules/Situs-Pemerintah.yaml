@@ -32,7 +32,7 @@ payload:
 - DOMAIN-SUFFIX,repository.kemkes.go.id
 - DOMAIN-SUFFIX,database.idionline.org
 - DOMAIN-SUFFIX,idionline.org
-- DOMAIN-SUFFIX,simk.ppni-inna.org
+# - DOMAIN-SUFFIX,simk.ppni-inna.org
 - DOMAIN-SUFFIX,ibi.data-online.id
 - DOMAIN-SUFFIX,seruyankab.go.id
 - DOMAIN-SUFFIX,diskominfo.seruyankab.go.id
