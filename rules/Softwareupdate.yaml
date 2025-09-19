@@ -17,6 +17,9 @@ payload:
   - DOMAIN,aus4.mozilla.org # Server cadangan update
   - DOMAIN,download.mozilla.org # Download binary update
   - DOMAIN-SUFFIX,update.mozilla.org # Cek info pembaruan
+  - DOMAIN-SUFFIX,services.addons.mozilla.org
+  - DOMAIN-SUFFIX,addons.mozilla.org
+  - DOMAIN-SUFFIX,ads.mozilla.org
   
 #AMD Driver
   - DOMAIN-SUFFIX,drivers.amd.com
