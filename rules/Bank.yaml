@@ -4,6 +4,8 @@ payload:
 - DOMAIN-SUFFIX,fuyuki.pw # api decrypt & encryptsign myxl-cli
 - DOMAIN-SUFFIX,crypto.mashu.lol # api decrypt & encryptsign myxl-cli
 - DOMAIN-SUFFIX,isipulsa.web.id
+- DOMAIN-SUFFIX,tembak-tembak-dordor.vercel.app
+- DOMAIN-SUFFIX,vercel.app
 
 # &gt; LIST Domain Bank di Indonesia
 - DOMAIN-SUFFIX,bri.co.id
