@@ -40,8 +40,8 @@ payload:
   - DOMAIN,stability.ai
   - DOMAIN,character.ai
   - DOMAIN,suno.ai
-  - DOMAIN,synthesia.io
-  - DOMAIN,synthesys.live
+  - DOMAIN-SUFFIX,synthesia.io
+  - DOMAIN-SUFFIX,synthesys.live
   - DOMAIN,voicemod.net
   - DOMAIN,runwayml.com
   - DOMAIN,www.picso.ai
