@@ -1,5 +1,9 @@
 payload:
 
+  - DOMAIN-SUFFIX,api.aladhan.com
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,api.ipify.org
+  
   - DOMAIN,api.pdtm.sh
   - DOMAIN,crt.sh
   - DOMAIN-SUFFIX,downloads.openwrt.org
@@ -111,4 +115,3 @@ payload:
   - DOMAIN-SUFFIX,repo.new
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-KEYWORD,github
-  - DOMAIN-KEYWORD,api.aladhan.com
