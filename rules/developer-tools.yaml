@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,api.aladhan.com
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,api.ipify.org
+  - DOMAIN-SUFFIX,termux.net
   
   - DOMAIN,api.pdtm.sh
   - DOMAIN,crt.sh
