@@ -26,6 +26,7 @@ payload:
 - DOMAIN-SUFFIX,line-scdn.net
 - DOMAIN-SUFFIX,nhncorp.jp
 - DOMAIN-SUFFIX,naver.jp
+- DOMAIN-SUFFIX,naver.com
 - IP-CIDR,103.2.28.0/22
 - IP-CIDR,119.235.224.0/21
 - IP-CIDR,119.235.232.0/23
