@@ -1,5 +1,6 @@
 payload:
 
+- DOMAIN-SUFFIX,netlify.app
 - IP-CIDR,147.139.163.15/32 #dana.id 147.139.163.15
 - IP-CIDR,23.47.190.113/32 #a.m.dana.id
 - IP-CIDR,23.47.190.115/32 #a.m.dana.id
