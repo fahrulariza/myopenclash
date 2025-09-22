@@ -27,8 +27,33 @@ payload:
   - DOMAIN-SUFFIX,sg.pool.ntp.org
   - DOMAIN-SUFFIX,time.cloudflare.com
   - DOMAIN-SUFFIX,nist.gov
-  - DOMAIN-SUFFIX,clock.nyc.he.net
-  - DOMAIN-SUFFIX,clock.via.net
-  - DOMAIN-SUFFIX,clock.sjc.he.net
   - DOMAIN-SUFFIX,nts.sth1.ntp.se
-  - DST-PORT,123,NTP-CLIENT,udp
+  - DST-PORT,123
+
+# sntp_server_ip_Tenda
+- IP-CIDR,120.25.108.11/32
+- IP-CIDR,108.59.2.24/32
+- IP-CIDR,212.47.249.141/32
+- IP-CIDR,129.6.15.28/32
+- IP-CIDR,129.6.15.29/32
+- IP-CIDR,18.145.0.30/32
+# ntp_server_ip_Tenda
+- IP-CIDR,198.18.0.37/32
+- IP-CIDR,198.18.0.38/32
+- IP-CIDR,198.18.0.15/32
+- IP-CIDR,198.18.0.22/32
+- IP-CIDR,198.18.0.30/32
+- IP-CIDR,198.18.2.76/32
+- IP-CIDR,120.25.108.11/32
+- IP-CIDR,108.59.2.24/32
+- IP-CIDR,212.47.249.141/32
+- IP-CIDR,129.6.15.28/32
+- IP-CIDR,129.6.15.29/32
+- IP-CIDR,18.145.0.30/32
+# sntp_server_name_Tenda
+- DOMAIN-SUFFIX,clock.fmt.he.net
+- DOMAIN-SUFFIX,clock.nyc.he.net
+- DOMAIN-SUFFIX,clock.sjc.he.net
+- DOMAIN-SUFFIX,clock.via.net
+- DOMAIN-SUFFIX,ntp1.tummy.com
+- DOMAIN-SUFFIX,ntp.ntsc.ac.cn
