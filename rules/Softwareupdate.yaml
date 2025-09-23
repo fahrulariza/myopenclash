@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,balena-cloud.com
   - DOMAIN-SUFFIX,balena.io
   - DOMAIN-SUFFIX,updatesnl.macrium.com
+  - DOMAIN-SUFFIX,cloud.tenda.com.cn
   - DOMAIN-SUFFIX,sammods.github.io # /insta-expiry/is_verified.json
 ### BROWSER ###
   - DOMAIN-SUFFIX,download-installer.cdn.mozilla.net
