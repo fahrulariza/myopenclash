@@ -263,6 +263,10 @@ payload:
   - DST-PORT,5349
   - DST-PORT,10000
 # google meet
+  - DOMAIN-SUFFIX,meetings.googleapis.com
+  - DOMAIN-SUFFIX,meethistory-pa.googleapis.com
+  - DOMAIN-SUFFIX,meetabuse-pa.googleapis.com
+  - DOMAIN-SUFFIX,meetabuse-pa.googleapis.com
   - DST-PORT,19302
   - DST-PORT,19303
   - DST-PORT,19304
@@ -271,6 +275,7 @@ payload:
   - DST-PORT,19307
   - DST-PORT,19308
   - DST-PORT,19309
+  
 # Team Viewer
   - DST-PORT,5938
 # Voice over Internet Protocol (VoIP)
