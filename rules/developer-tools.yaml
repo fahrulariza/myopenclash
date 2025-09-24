@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,api.ipify.org
   - DOMAIN-SUFFIX,termux.net
+  - DOMAIN-SUFFIX,urlscan.io
   
   - DOMAIN,api.pdtm.sh
   - DOMAIN,crt.sh
