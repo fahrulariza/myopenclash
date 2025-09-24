@@ -2,8 +2,7 @@ payload:
 
 # TikTok
 # Src: https://www.netify.ai/resources/applications/tiktok
-# - GEOIP,tiktok
-
+- GEOIP,tiktok
 - DOMAIN-SUFFIX,bytegecko-i18n.com
 - DOMAIN-SUFFIX,bytefcdn-oversea.com
 - DOMAIN-SUFFIX,byteoversea.net
@@ -143,14 +142,21 @@ payload:
 # TikTok CDN - Partner Networks - Hong Kong
 - IP-CIDR,156.59.196.0/22,TikTok🔴 # Zenlayer - Logo Zenlayer - Hosting
 
-
-# 71.18.x.x/xx Rentang:
-- IP-CIDR,71.18.227.0/24
-- IP-CIDR,71.18.247.0/24
-- IP-CIDR,71.18.248.0/24
-- IP-CIDR,71.18.251.0/24
-- IP-CIDR,71.18.252.0/23
-- IP-CIDR,71.18.255.0/24
+# 71.18.x.x/xx Rentang: https://bgp.he.net/AS138699#_prefixes
+- IP-CIDR,71.18.227.0/24 # Bytedance Inc.
+- IP-CIDR,71.18.247.0/24 # Bytedance Inc.
+- IP-CIDR,71.18.248.0/24 # American Registry for Internet Numbers
+- IP-CIDR,71.18.251.0/24 # American Registry for Internet Numbers
+- IP-CIDR,71.18.252.0/23 # Bytedance Inc.
+- IP-CIDR,71.18.255.0/24 # American Registry for Internet Numbers
+- IP-CIDR,101.45.248.0/22 # Bytedance Inc.
+- IP-CIDR,101.45.248.0/24 # Bytedance Inc.
+- IP-CIDR,103.136.220.0/23 # TikTok SG
+- IP-CIDR,103.136.220.0/24 # TikTok SG
+- IP-CIDR,103.136.221.0/24 # TikTok SG
+- IP-CIDR,103.136.222.0/24 # TikTok SG
+- IP-CIDR,103.136.223.0/24 # TikTok SG
+- IP-CIDR,118.26.132.0/24 # TIKTOK PTE. LTD. SG
 
 # 101.x.x.x/xx Rentang:
 - IP-CIDR,101.45.255.0/24
