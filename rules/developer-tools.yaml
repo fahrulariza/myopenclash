@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,termux.net
   - DOMAIN-SUFFIX,urlscan.io
   - DOMAIN-SUFFIX,api.certspotter.com
+  - DOMAIN-SUFFIX,api.hackertarget.com
   
   - DOMAIN,api.pdtm.sh
   - DOMAIN,crt.sh
