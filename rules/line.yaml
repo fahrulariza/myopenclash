@@ -8,6 +8,7 @@ payload:
 - DOMAIN-SUFFIX,line-apps.com
 - DOMAIN-SUFFIX,line-cdn.net
 - DOMAIN-SUFFIX,line-scdn.net
+- DOMAIN-SUFFIX,linefriends.com # sogood.linefriends.com
 - DOMAIN-SUFFIX,nhncorp.jp
 - DOMAIN-SUFFIX,naver.jp
 - DOMAIN-SUFFIX,naver.com
