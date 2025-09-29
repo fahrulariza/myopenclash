@@ -9,9 +9,9 @@ payload:
   - DOMAIN-SUFFIX,download-installer.cdn.mozilla.net
   - DOMAIN-SUFFIX,ChromeSetup.exe
   - DOMAIN-SUFFIX,GoogleChromeEnterpriseBundle64.zip
-  - DOMAIN,update.googleapis.com # Cek update versi Chrome
-  - DOMAIN,tools.google.com # Layanan internal update
-  - DOMAIN,clients2.google.com # Server distribusi update
+  #- DOMAIN,update.googleapis.com # Cek update versi Chrome
+  #- DOMAIN,tools.google.com # Layanan internal update
+  #- DOMAIN,clients2.google.com # Server distribusi update
   - DOMAIN,omahaproxy.appspot.com # Server informasi versi terbaru
 
 # - DOMAIN-SUFFIX,addons.mozilla.org # Hanya jika ingin blokir update ekstensi
