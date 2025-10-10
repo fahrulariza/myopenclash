@@ -23,6 +23,7 @@ payload:
 - DOMAIN-SUFFIX,ioffice.air.id
 - DOMAIN-SUFFIX,kinerja.bkn.go.id
 - DOMAIN-SUFFIX,ekinerja.seruyankab.go.id
+- DOMAIN-SUFFIX,palui.seruyankab.go.id
 - DOMAIN-SUFFIX,srikandi.arsip.go.id
 - DOMAIN-SUFFIX,api.arsip.go.id
 - DOMAIN-SUFFIX,arsip.go.id
