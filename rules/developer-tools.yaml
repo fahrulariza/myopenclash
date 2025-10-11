@@ -1,6 +1,5 @@
 payload:
 
-  - DOMAIN-SUFFIX,api.aladhan.com
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,api.ipify.org
   - DOMAIN-SUFFIX,termux.net
@@ -110,7 +109,6 @@ payload:
   - DOMAIN-SUFFIX,githubpreview.dev
   - DOMAIN-SUFFIX,githubstatus.com
   - DOMAIN-SUFFIX,githubuniverse.com
-  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,myoctocat.com
   - DOMAIN-SUFFIX,npm.community
   - DOMAIN-SUFFIX,npmjs.com
