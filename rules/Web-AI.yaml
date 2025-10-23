@@ -51,6 +51,7 @@ payload:
   - DOMAIN,deepseek.com,RP-Engine-AI 💻,tcp # Akses langsung
   - DOMAIN,chat.deepseek.com.cdn.cloudflare.net,RP-Engine-AI 💻,tcp # Akses langsung
   - DOMAIN-SUFFIX,deepseek.com,RP-Engine-AI 💻,tcp # Untuk subdomain juga
+  - DOMAIN-SUFFIX,js.hcaptcha.com
 
 
 
