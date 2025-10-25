@@ -3,6 +3,11 @@ payload:
 # &gt; LIST Streaming IP/Lokasi Wajib Indo
 
 
+  - DOMAIN-SUFFIX,nagaswarafm.com
+  - DOMAIN-SUFFIX,myradio.web.id
+  - IP-CIDR,203.30.236.2/32,no-resolve
+  - IP-CIDR,202.65.114.229/32,no-resolve
+  - DOMAIN-KEYWORD,suara_mahakam
   - DOMAIN-KEYWORD,lk21
 #IPTV      
   - DOMAIN-SUFFIX,transvision.co.id
