@@ -8,7 +8,8 @@ payload:
   - DOMAIN-SUFFIX,api.hackertarget.com
   - DOMAIN-SUFFIX,public-dns.info
   - DOMAIN-SUFFIX,certificatedetails.com
-  
+  - DOMAIN-SUFFIX,sahabatssh.com
+    
   - DOMAIN,api.pdtm.sh
   - DOMAIN,crt.sh
   - DOMAIN-SUFFIX,downloads.openwrt.org
