@@ -1,12 +1,13 @@
 
 payload:
 
-# URL Costum
+# URL Costum wajib indonesia
 - DOMAIN-SUFFIX,fuyuki.pw # api decrypt & encryptsign
 - DOMAIN-SUFFIX,tancap88.digital
 - DOMAIN-SUFFIX,kuyhaa.me
 - DOMAIN-SUFFIX,crypto.mashu.lol
 - DOMAIN-SUFFIX,kuyhaa.me
+- DOMAIN-SUFFIX,appsflyersdk.com
 
 # Mulai baris ini kebawah bisa di edit/hapus
 
