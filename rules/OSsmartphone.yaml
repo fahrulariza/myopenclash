@@ -111,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,ifota.coloros.com
   - DOMAIN-SUFFIX,conn2.oppomobile.com
   - DOMAIN-SUFFIX,push.oppomobile.com
+  - DOMAIN-SUFFIX,oppomobile.com
   
 # Oppo/Vivo
   - DOMAIN-SUFFIX,otafsg.otacdn.com
