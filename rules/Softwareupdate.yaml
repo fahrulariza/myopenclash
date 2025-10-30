@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,services.addons.mozilla.org
   - DOMAIN-SUFFIX,addons.mozilla.org
   - DOMAIN-SUFFIX,ads.mozilla.org
+  - DOMAIN-SUFFIX,push.services.mozilla.com
   
 #AMD Driver
   - DOMAIN-SUFFIX,drivers.amd.com
