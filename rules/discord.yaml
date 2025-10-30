@@ -20,7 +20,9 @@ payload:
   - DST-PORT,50001
   - DST-PORT,50000
   - DST-PORT,19313
+  - DST-PORT,19296
 
+  - IP-CIDR,104.29.132.0/24
   - IP-CIDR,162.159.128.0/19
   - DOMAIN-KEYWORD,discord
   - DOMAIN-SUFFIX,media.discordapp.net
