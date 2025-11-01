@@ -1,5 +1,6 @@
 payload:
 
+  - DOMAIN-SUFFIX,downloads.arduino.cc
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,api.ipify.org
   - DOMAIN-SUFFIX,termux.net
