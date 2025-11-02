@@ -14,7 +14,7 @@ payload:
 
 #✅ Rentang IP untuk VoIP WhatsApp
   - IP-CIDR,31.13.24.0/21,WHATSAPP-CALL 📞,udp  # Server khusus VoIP WhatsApp
-  - IP-CIDR,179.60.192.0/22,WHATSAPP-CALL 📞,udp  # Rentang VoIP global
+#  - IP-CIDR,179.60.192.0/22,WHATSAPP-CALL 📞,udp  # Rentang VoIP global scontent-bru2-1.cdninstagram.com:443	
   - IP-CIDR,185.60.216.0/22,WHATSAPP-CALL 📞,udp  # Rentang WhatsApp utama
 
 #✅ Rentang IP untuk Video Call WhatsApp
