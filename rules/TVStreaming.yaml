@@ -276,8 +276,10 @@ payload:
 - DOMAIN-SUFFIX,gcpvuclip-a.akamaihd.net
 - DOMAIN-SUFFIX,vuclip-eip2.akamaized.net
 - DOMAIN-SUFFIX,vuclipi-a.akamaihd.net
+- DOMAIN,prod-in.viu.com
 - DOMAIN-KEYWORD,vuclip
 - DOMAIN-KEYWORD,viu
+
 # &gt; Beinsport
 - DOMAIN-SUFFIX,connect-id.beinsports.com
 - DOMAIN-SUFFIX,beinsports.com
