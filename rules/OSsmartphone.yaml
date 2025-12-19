@@ -123,6 +123,7 @@ payload:
   - DOMAIN-SUFFIX,ota-bb.vivo.com.cn
   - DOMAIN-SUFFIX,ota-s.vivo.com.cn
   - DOMAIN-SUFFIX,vivoglobal.com
+  - DOMAIN,asia-sysupakdl.vivoglobal.com
 
 # OnePlus
   - DOMAIN-SUFFIX,otacdn.h2os.com # Untuk OxygenOS/HydrogenOS
