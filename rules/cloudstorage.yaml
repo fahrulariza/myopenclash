@@ -31,6 +31,7 @@ payload:
   - PROCESS-NAME,com.microsoft.skydrive
 
 # Apple iCloud
+  - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,me.com
   - DOMAIN-SUFFIX,apple.com # General Apple domains for various services including iCloud
