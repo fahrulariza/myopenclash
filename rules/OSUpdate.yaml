@@ -11,6 +11,9 @@ payload:
 
 
 # ############################### WINDOWS ############################### #  
+#OS_Apple_Store
+  - DOMAIN,osxapps.itunes.g.aaplimg.com
+
 #OS_Update_Windows
   - DOMAIN-SUFFIX,windowsupdate.microsoft.com
   - DOMAIN-SUFFIX,update.microsoft.com
