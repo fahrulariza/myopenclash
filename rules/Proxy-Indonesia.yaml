@@ -9,6 +9,8 @@ payload:
 - DOMAIN-SUFFIX,kuyhaa.me
 - DOMAIN-SUFFIX,appsflyersdk.com
 - DOMAIN-SUFFIX,tribunnews.com
+- DOMAIN-SUFFIX,www.kuyhaa.me
+- DOMAIN,www.kuyhaa.me
 
 # Mulai baris ini kebawah bisa di edit/hapus
 
