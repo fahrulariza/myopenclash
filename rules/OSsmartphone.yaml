@@ -1,5 +1,8 @@
 payload:
 
+  - DOMAIN,dxb1431.github.io
+  - DOMAIN-SUFFIX,dxb1431.github.io
+  - DOMAIN-SUFFIX,pangle.io
 # Google Pixel
   - DOMAIN-SUFFIX,ota.googlezip.net
   - DOMAIN-SUFFIX,updates.googleapis.com
