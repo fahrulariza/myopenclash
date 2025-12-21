@@ -24,6 +24,7 @@ payload:
 - DOMAIN-KEYWORD,shopee
 - DOMAIN-KEYWORD,susercontent.com
 - DOMAIN-SUFFIX,susercontent.com
+- DOMAIN-SUFFIX,pay.shopee.sg
 
 - DOMAIN-SUFFIX,tokopedia.com
 - DOMAIN-KEYWORD,tokopedia
