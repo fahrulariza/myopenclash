@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,photosdata-pa.googleapis.com,Google - Service🔶,no-resolve
 
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,Google - Service🔶,no-resolve
+  - DOMAIN-SUFFIX,tunnel.googlezip.net,Google - Service🔶,no-resolve # fitur "Private Prefetch Proxy" milik Google Chrome.
   
   - DOMAIN,voice.telephony.goog
   - DOMAIN-SUFFIX,0emm.com
