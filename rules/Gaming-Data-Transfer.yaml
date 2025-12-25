@@ -4,6 +4,9 @@ payload:
 # 📥 Valve Corporation
   - IP-CIDR,45.121.184.0/24,DOWNLOAD-ASSET-GAME 🕹️,tcp    #  Japan (JP)
 
+# GARENA
+  - DOMAIN-SUFFIX,content.garena.com,DOWNLOAD-ASSET-GAME 🕹️,TCP
+
 # 📥 eFootball Mobile - Download Data & Resources
   - DOMAIN-SUFFIX,cdn.efootballmobile.com,DOWNLOAD-ASSET-GAME 🕹️
   - DOMAIN-SUFFIX,download.efootballmobile.com,DOWNLOAD-ASSET-GAME 🕹️
