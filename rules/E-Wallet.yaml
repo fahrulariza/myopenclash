@@ -32,6 +32,21 @@ payload:
 - DOMAIN-SUFFIX,shopeepay.co.id
 - DOMAIN-SUFFIX,grab.com
 - DOMAIN-SUFFIX,grabtaxi.com
+- DOMAIN-SUFFIX,xendit.co
+- DOMAIN-SUFFIX,flip.id
+- DOMAIN-SUFFIX,ipaymu.com
+- DOMAIN-SUFFIX,duitku.com
+- DOMAIN-SUFFIX,faspay.co.id
+- DOMAIN-SUFFIX,oyindonesia.com
+- DOMAIN-SUFFIX,espay.id
+- DOMAIN-SUFFIX,kaspro.id
+- DOMAIN-SUFFIX,paytren.co.id
+- DOMAIN-SUFFIX,sakuku.com
+- DOMAIN-SUFFIX,jakone.mobi
+- DOMAIN-SUFFIX,gopay.co.id
+- DOMAIN-SUFFIX,astrapay.com
+- DOMAIN-SUFFIX,truemoney.co.id
+- DOMAIN-SUFFIX,sahabatssh.com # Penjual VPN
 - DOMAIN-KEYWORD,gojek
 - DOMAIN-KEYWORD,gobiz
 - DOMAIN-KEYWORD,ovo
@@ -43,9 +58,15 @@ payload:
 - DOMAIN-KEYWORD,shopeepay
 - DOMAIN-KEYWORD,grab
 - DOMAIN-KEYWORD,grabtaxi
-- DOMAIN-KEYWORD,xendit.co
-- DOMAIN-SUFFIX,sahabatssh.com # Penjual VPN
-
+- DOMAIN-KEYWORD,midtrans
+- DOMAIN-KEYWORD,xendit
+- DOMAIN-KEYWORD,gopay
+- DOMAIN-KEYWORD,astrapay
+- DOMAIN-KEYWORD,truemoney
+- DOMAIN-KEYWORD,kaspro
+- DOMAIN-KEYWORD,ipaymu
+- DOMAIN-KEYWORD,duitku
+- DOMAIN-KEYWORD,faspay
 
 #============================================================
 - DOMAIN-SUFFIX,myim3api1.ioh.co.id,RP-BANK💰,tcp
