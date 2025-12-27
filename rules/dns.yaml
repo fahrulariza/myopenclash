@@ -58,4 +58,22 @@ payload:
 - IP-CIDR,4.2.2.1/32       # Level3
 - IP-CIDR,4.2.2.2/32
 
+# AliDNS (Alibaba) - Kecepatan baik untuk Asia/Tiongkok
+- DOMAIN-SUFFIX,alidns.com
+- IP-CIDR,223.5.5.5/32
+- IP-CIDR,223.6.6.6/32
+- IP-CIDR6,2400:3200::1/128
+- IP-CIDR6,2400:3200:baba::1/128
+
+# 114 DNS
+- IP-CIDR,114.114.114.114/32
+- IP-CIDR,114.114.115.115/32
+
+# DNS.SB (No-logging)
+- DOMAIN-SUFFIX,dns.sb
+- IP-CIDR,185.222.222.222/32
+- IP-CIDR,45.11.45.11/32
+- IP-CIDR6,2a09::/128
+- IP-CIDR6,2a11::/128
+
 - DOMAIN-SUFFIX,hcaptcha.com
