@@ -41,6 +41,8 @@ payload:
   - DOMAIN,mi.com
   - DOMAIN,tencent.com
   - DOMAIN,sina.com.cn
+  - DOMAIN,cdsglobalcloud.com
+  - IP-CIDR,148.153.147.17/32
 
   - IP-CIDR,1.0.1.0/24
   - IP-CIDR,1.0.2.0/23
