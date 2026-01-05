@@ -29,15 +29,14 @@ payload:
   - DOMAIN-SUFFIX,ati.com
 
 #OS_Update_Windows
-  - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
+#  - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com # MS.STORE
   - DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
   - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,geover.prod.do.dsp.mp.microsoft.com
   - DOMAIN-SUFFIX,tsfe.trafficshaping.dsp.mp.microsoft.com
-  - DOMAIN-SUFFIX,delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,fe3.delivery.dsp.mp.microsoft.com
-  - DOMAIN-SUFFIX,delivery.mp.microsoft.com
-  - DOMAIN-SUFFIX,mp.microsoft.com
+#  - DOMAIN-SUFFIX,delivery.mp.microsoft.com  # MS.STORE
+#  - DOMAIN-SUFFIX,mp.microsoft.com  # MS.STORE
   - DOMAIN-SUFFIX,graph.microsoft.com
 
 #DELL
