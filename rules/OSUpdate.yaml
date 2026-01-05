@@ -21,7 +21,7 @@ payload:
   - DOMAIN-SUFFIX,ntservicepack.microsoft.com
   - DOMAIN-SUFFIX,wustat.windows.com
   - DOMAIN-SUFFIX,stats.microsoft.com
-  - DOMAIN-SUFFIX,delivery.mp.microsoft.com
+#  - DOMAIN-SUFFIX,delivery.mp.microsoft.com # MS.Store
   - DOMAIN-SUFFIX,ws.microsoft.com
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,download.microsoft.com
