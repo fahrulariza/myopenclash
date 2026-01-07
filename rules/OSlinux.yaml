@@ -32,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,voidlinux.org
   - DOMAIN-SUFFIX,nixos.org
   - DOMAIN-SUFFIX,linux.domainesia.com
+  - DOMAIN-SUFFIX,termux.dev
