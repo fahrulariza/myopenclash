@@ -31,3 +31,4 @@ payload:
   - DOMAIN-SUFFIX,gentoo.org
   - DOMAIN-SUFFIX,voidlinux.org
   - DOMAIN-SUFFIX,nixos.org
+  - DOMAIN-SUFFIX,linux.domainesia.com
