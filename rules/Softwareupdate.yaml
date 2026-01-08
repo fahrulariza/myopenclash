@@ -13,6 +13,7 @@ payload:
   #- DOMAIN,tools.google.com # Layanan internal update
   #- DOMAIN,clients2.google.com # Server distribusi update
   - DOMAIN,omahaproxy.appspot.com # Server informasi versi terbaru
+  - DOMAIN-SUFFIX,updates-cdn.bravesoftware.com
 
 # - DOMAIN-SUFFIX,addons.mozilla.org # Hanya jika ingin blokir update ekstensi
   - DOMAIN,aus5.mozilla.org # Server utama update otomatis Firefox
