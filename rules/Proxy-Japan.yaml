@@ -29,8 +29,10 @@ payload:
   - DOMAIN,softbank.jp
   - DOMAIN,ntt.com
   - DOMAIN,nic.ad.jp
-  - DOMAIN-SUFFIX,tapecontent.net
   - DOMAIN,tapecontent.net
+  - DOMAIN-SUFFIX,tapecontent.net
+  - DOMAIN-KEYWORD,tapecontent
+
 
   - IP-CIDR,1.0.16.0/20
   - IP-CIDR,1.0.64.0/18
