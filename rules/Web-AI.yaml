@@ -46,6 +46,8 @@ payload:
   - DOMAIN,runwayml.com
   - DOMAIN,www.picso.ai
   - DOMAIN,lmarena.ai
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grokusercontent.com
 
   - DOMAIN-SUFFIX,aistudio.google.com  
   - DOMAIN,deepseek.com,RP-Engine-AI 💻,tcp # Akses langsung
