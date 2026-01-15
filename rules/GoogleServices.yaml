@@ -44,7 +44,7 @@ payload:
   - DOMAIN-SUFFIX,googletagmanager.com,Google - Service🔶,no-resolve
   - DOMAIN-SUFFIX,googletagservices.com,Google - Service🔶,no-resolve
   - DOMAIN-SUFFIX,gz0.googleusercontent.com,Google - Service🔶,no-resolve
-  - DOMAIN-SUFFIX,googleusercontent.com,Google - Service🔶,no-resolve
+#  - DOMAIN-SUFFIX,googleusercontent.com,Google - Service🔶,no-resolve
   - DOMAIN-SUFFIX,geller-pa.googleapis.com,Google - Service🔶,no-resolve
   - DOMAIN-SUFFIX,gemini.google.com,Google - Service🔶,no-resolve
   - DOMAIN-SUFFIX,google-ohttp-relay-safebrowsing.fastly-edge.com,Google - Service🔶,no-resolve
