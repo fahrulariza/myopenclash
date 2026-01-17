@@ -57,6 +57,8 @@ payload:
 - DOMAIN-SUFFIX,api-ioffice.air.id
 - DOMAIN-SUFFIX,0.datadog.pool.ntp.org
 - DOMAIN-SUFFIX,browser-intake-datadoghq.eu
+- DOMAIN-SUFFIX,elhkpn.kpk.go.id
+- DOMAIN-SUFFIX,kpk.go.id
 
 # DOMAIN-KEYWORD untuk kata kunci yang sering muncul di domain pemerintahan
 # - DOMAIN-KEYWORD,go.id
