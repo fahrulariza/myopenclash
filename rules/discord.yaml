@@ -5,6 +5,16 @@
 # DOMAIN-SUFFIX: 29
 # TOTAL: 29
 payload:
+
+# infrastruktur Google Cloud (GCP) dan Cloudflare.
+  - IP-CIDR,162.159.128.0/20
+  - IP-CIDR,162.159.136.0/22
+  - IP-CIDR,162.159.138.0/24
+  - IP-CIDR,162.159.140.0/24
+  - IP-CIDR,162.159.152.0/24
+  - IP-CIDR,35.190.0.0/17
+  - IP-CIDR,34.96.0.0/14
+  
   - IP-CIDR,35.215.146.191/32
   - IP-CIDR,104.29.146.23/32
   - IP-CIDR,35.213.136.72/32
@@ -12,7 +22,7 @@ payload:
   - IP-CIDR,35.215.146.191/32
   - IP-CIDR,104.29.157.234/32
   - IP-CIDR,104.29.146.21/32
-  - IP-CIDR,35.215.166.242/33
+  - IP-CIDR,35.215.166.242/32
   - DST-PORT,50004
   - DST-PORT,19340
   - DST-PORT,19337
@@ -29,13 +39,14 @@ payload:
   - DST-PORT,19313
   - DST-PORT,19316
   - DST-PORT,19296
+  - DST-PORT,45000-65535,UDP
 
   - IP-CIDR,104.29.132.0/24
   - IP-CIDR,162.159.128.0/19
   - DOMAIN-KEYWORD,discord
   - DOMAIN-SUFFIX,media.discordapp.net
   - DOMAIN-SUFFIX,discover-pa.googleapis.com
-  - DOMAIN-SUFFIX,discordm�>��
+  - DOMAIN-SUFFIX,discord.me
   - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discord.media
