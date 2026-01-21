@@ -32,6 +32,9 @@ payload:
   - DOMAIN,tapecontent.net,TRAFIK-JAPAN 🇯🇵 🌞
   - DOMAIN-SUFFIX,tapecontent.net,TRAFIK-JAPAN 🇯🇵 🌞
   - DOMAIN-KEYWORD,tapecontent,TRAFIK-JAPAN 🇯🇵 🌞
+  - DOMAIN-KEYWORD,api-protected.protoawegw.com
+  - DOMAIN-KEYWORD,dditscdn.com
+  - DOMAIN-KEYWORD,galleryn3.vcmdiawe.com
 
 
   - IP-CIDR,1.0.16.0/20
