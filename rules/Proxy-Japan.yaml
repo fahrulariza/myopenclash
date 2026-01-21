@@ -7,34 +7,28 @@ payload:
   - GEOIP,jp,TRAFIK-JAPAN 🇯🇵 🌞
   - GEOSITE,jp,TRAFIK-JAPAN 🇯🇵 🌞
   
-  - DOMAIN-SUFFIX,co.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-SUFFIX,go.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-SUFFIX,or.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-SUFFIX,ne.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-SUFFIX,ac.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-SUFFIX,lg.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-KEYWORD,japan,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-KEYWORD,jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-KEYWORD,tokyo,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-KEYWORD,anime,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-KEYWORD,nhk,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-KEYWORD,sakura,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-KEYWORD,japanese,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN,amazon.co.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN,google.co.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN,yahoo.co.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN,rakuten.co.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN,docomo.ne.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN,nhk.or.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN,softbank.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN,ntt.com,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN,nic.ad.jp,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN,tapecontent.net,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-SUFFIX,tapecontent.net,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-KEYWORD,tapecontent,TRAFIK-JAPAN 🇯🇵 🌞
-  - DOMAIN-KEYWORD,api-protected.protoawegw.com
-  - DOMAIN-KEYWORD,dditscdn.com
-  - DOMAIN-KEYWORD,galleryn3.vcmdiawe.com
+  - DOMAIN-SUFFIX,co.jp
+  - DOMAIN-SUFFIX,go.jp
+  - DOMAIN-SUFFIX,or.jp
+  - DOMAIN-SUFFIX,ne.jp
+  - DOMAIN-SUFFIX,ac.jp
+  - DOMAIN-SUFFIX,lg.jp
+  - DOMAIN-KEYWORD,japan
+  - DOMAIN-KEYWORD,jp
+  - DOMAIN-KEYWORD,tokyo
+  - DOMAIN-KEYWORD,anime
+  - DOMAIN-KEYWORD,nhk
+  - DOMAIN-KEYWORD,sakura
+  - DOMAIN-KEYWORD,japanese
+  - DOMAIN,amazon.co.jp
+  - DOMAIN,google.co.jp
+  - DOMAIN,yahoo.co.jp
+  - DOMAIN,rakuten.co.jp
+  - DOMAIN,docomo.ne.jp
+  - DOMAIN,nhk.or.jp
+  - DOMAIN,softbank.jp
+  - DOMAIN,ntt.com
+  - DOMAIN,nic.ad.jp
 
 
   - IP-CIDR,1.0.16.0/20
@@ -3039,6 +3033,7 @@ payload:
   - IP-CIDR,223.223.224.0/19
   - IP-CIDR,223.252.64.0/19
   - IP-CIDR,223.252.112.0/20
+  
   - DOMAIN-SUFFIX,bestjavporn.com
   - DOMAIN-SUFFIX,vdcdn.top
   - DOMAIN-SUFFIX,missav123.com
@@ -3052,4 +3047,10 @@ payload:
   - DOMAIN-SUFFIX,bestjavporn.com
   - DOMAIN-SUFFIX,vdcdn.top
   - DOMAIN-SUFFIX,cloudatacdn.com
+  - DOMAIN,tapecontent.net
+  - DOMAIN-SUFFIX,tapecontent.net
+  - DOMAIN-KEYWORD,tapecontent
+  - DOMAIN-KEYWORD,api-protected.protoawegw.com
   - DOMAIN-SUFFIX,dditscdn.com
+  - DOMAIN-SUFFIX,dditsadn.com  
+  - DOMAIN-SUFFIX,galleryn3.vcmdiawe.com
