@@ -7,7 +7,7 @@ payload:
   - GEOIP,jp,TRAFIK-JAPAN 🇯🇵 🌞
   - GEOSITE,jp,TRAFIK-JAPAN 🇯🇵 🌞
   
-  - DOMAIN-SUFFIX,co.jp
+  - DOMAIN-SUFFIX,co.jp,TRAFIK-JAPAN 🇯🇵 🌞
   - DOMAIN-SUFFIX,go.jp
   - DOMAIN-SUFFIX,or.jp
   - DOMAIN-SUFFIX,ne.jp
