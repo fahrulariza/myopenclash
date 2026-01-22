@@ -92,3 +92,6 @@ payload:
 - IP-CIDR,202.134.1.10/32
 
 - DOMAIN-SUFFIX,hcaptcha.com
+
+- DST-PORT,53
+- DST-PORT,853
