@@ -17,6 +17,7 @@ payload:
   - PROCESS-NAME,drive.usercontent.google.com
   - DOMAIN,photos.fife.usercontent.google.com
   - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,takeout-download-drive.usercontent.google.com
 
 # Dropbox
   - DOMAIN,www.dropbox.com
