@@ -48,6 +48,7 @@ payload:
   - DOMAIN,lmarena.ai
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grokusercontent.com
+  - DOMAIN-SUFFIX,imagine-public.x.ai
 
   - DOMAIN-SUFFIX,aistudio.google.com  
   - DOMAIN,deepseek.com,RP-Engine-AI 💻,tcp # Akses langsung
