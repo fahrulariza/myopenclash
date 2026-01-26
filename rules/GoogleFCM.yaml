@@ -69,6 +69,16 @@ payload:
   - DOMAIN-SUFFIX,appspot.com,Google - FCM🔷 # Digunakan oleh beberapa layanan Google, termasuk Firebase
   - DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com,Google - FCM🔷
   - DOMAIN-SUFFIX,firebaseinstallations.googleapis.com,Google - FCM🔷 
+
+  # --- IP-CIDR Google Cloud (Indonesia & SE-Asia Region) ---
+  - IP-CIDR,34.101.0.0/16 # Google Cloud untuk Region Jakarta (asia-southeast2)
+  - IP-CIDR,34.87.0.0/16 # Google Cloud untuk Region Singapore (asia-southeast1).
+  - IP-CIDR,34.96.0.0/14 # Google Cloud yang digunakan untuk layanan Load Balancing dan Content Delivery Network (CDN).
+  - IP-CIDR,35.190.0.0/17 # Google Cloud yang digunakan untuk layanan Load Balancing dan Content Delivery Network (CDN).
+  - IP-CIDR,35.213.136.72/32
+  - IP-CIDR,35.215.129.135/32
+  - IP-CIDR,35.215.146.191/32
+  - IP-CIDR,35.215.166.242/32
   
   - DST-PORT,5228 # Firebase Cloud Messaging (FCM) - Server Google untuk menerima notifikasi push dari berbagai aplikasi, termasuk WhatsApp, Telegram, dan aplikasi lain yang menggunakan FCM.
   - DST-PORT,5229 # Firebase Cloud Messaging (FCM) - Jika koneksi ke mtalk.google.com:5228 diblokir atau dialihkan ke jalur proxy/VPN yang lambat, notifikasi WhatsApp bisa terlambat atau tidak muncul sama sekali.
