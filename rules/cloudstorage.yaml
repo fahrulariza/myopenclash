@@ -78,3 +78,6 @@ payload:
 # Flickr (photo-centric cloud storage)
 - DOMAIN-SUFFIX,flickr.com
 - PROCESS-NAME,com.flickr.android
+
+- DOMAIN-SUFFIX,account.microsoft.com
+- DOMAIN-SUFFIX,login.aol.com
