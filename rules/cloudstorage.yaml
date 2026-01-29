@@ -38,6 +38,8 @@ payload:
   - DOMAIN-SUFFIX,me.com
   - DOMAIN-SUFFIX,apple.com # General Apple domains for various services including iCloud
   - PROCESS-NAME,com.apple.cloudphotosd # Example for Photo sync, not a general app
+  - DOMAIN-SUFFIX,idmsa.apple.com
+  - DOMAIN-SUFFIX,account.apple.com
 
 # Amazon S3 (Amazon Web Services - AWS)
 #  - DOMAIN-SUFFIX,s3.amazonaws.com
