@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,flv.intechmedia.net
   - DOMAIN-SUFFIX,xiaomi.wurl.tv
   - DOMAIN-SUFFIX,amagi.tv
+  - DOMAIN-SUFFIX,frequency.stream
 #IPTV      
   - DOMAIN-SUFFIX,transvision.co.id
   - DOMAIN-SUFFIX,mncnow.id
