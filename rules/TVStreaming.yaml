@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,xiaomi.wurl.tv
   - DOMAIN-SUFFIX,amagi.tv
   - DOMAIN-SUFFIX,frequency.stream
+  - DOMAIN-SUFFIX,wurl.tv
   - DOMAIN-SUFFIX,dbrb49pjoymg4.cloudfront.net
   
 #IPTV      
