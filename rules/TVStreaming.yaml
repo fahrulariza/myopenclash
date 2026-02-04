@@ -10,6 +10,7 @@ payload:
   - DOMAIN-KEYWORD,suara_mahakam
   - DOMAIN-KEYWORD,lk21
   - DOMAIN-SUFFIX,biznetvideo.net
+  - DOMAIN-SUFFIX,flv.intechmedia.net
 #IPTV      
   - DOMAIN-SUFFIX,transvision.co.id
   - DOMAIN-SUFFIX,mncnow.id
