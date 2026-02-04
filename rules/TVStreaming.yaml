@@ -11,6 +11,7 @@ payload:
   - DOMAIN-KEYWORD,lk21
   - DOMAIN-SUFFIX,biznetvideo.net
   - DOMAIN-SUFFIX,flv.intechmedia.net
+  - DOMAIN-SUFFIX,xiaomi.wurl.tv
 #IPTV      
   - DOMAIN-SUFFIX,transvision.co.id
   - DOMAIN-SUFFIX,mncnow.id
