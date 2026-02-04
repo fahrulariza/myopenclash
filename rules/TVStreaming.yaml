@@ -9,6 +9,7 @@ payload:
   - IP-CIDR,202.65.114.229/32,no-resolve
   - DOMAIN-KEYWORD,suara_mahakam
   - DOMAIN-KEYWORD,lk21
+  - DOMAIN-SUFFIX,biznetvideo.net
 #IPTV      
   - DOMAIN-SUFFIX,transvision.co.id
   - DOMAIN-SUFFIX,mncnow.id
