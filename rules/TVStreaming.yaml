@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,frequency.stream
   - DOMAIN-SUFFIX,wurl.tv
   - DOMAIN-SUFFIX,dbrb49pjoymg4.cloudfront.net
+  - DOMAIN-SUFFIX,tv.casindo.org
   
 #IPTV      
   - DOMAIN-SUFFIX,transvision.co.id
