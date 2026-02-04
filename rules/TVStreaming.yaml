@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,wurl.tv
   - DOMAIN-SUFFIX,dbrb49pjoymg4.cloudfront.net
   - DOMAIN-SUFFIX,tv.casindo.org
+  - DOMAIN-SUFFIX,dens.tv
   
 #IPTV      
   - DOMAIN-SUFFIX,transvision.co.id
