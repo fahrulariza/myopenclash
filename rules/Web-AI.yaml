@@ -1,4 +1,30 @@
 payload:
+
+  - DOMAIN,chat.openai.com
+  - DOMAIN,platform.openai.com
+  - DOMAIN,chatgpt.com
+  - DOMAIN,claude.ai
+  - DOMAIN,poe.com
+  - DOMAIN,perplexity.ai
+  - DOMAIN,www.midjourney.com
+  - DOMAIN,replicate.com
+  - DOMAIN,huggingface.co
+  - DOMAIN,stability.ai
+  - DOMAIN,character.ai
+  - DOMAIN,suno.ai
+  - DOMAIN,app.zencreator.pro
+  - DOMAIN,stablediffusionweb.com
+  - DOMAIN,voicemod.net
+  - DOMAIN,runwayml.com
+  - DOMAIN,www.picso.ai
+  - DOMAIN,lmarena.ai
+  - DOMAIN,deepseek.com,RP-Engine-AI 💻,tcp # Akses langsung
+  - DOMAIN,chat.deepseek.com.cdn.cloudflare.net,RP-Engine-AI 💻,tcp # Akses langsung
+  - DOMAIN,gemini.google.com
+  - DOMAIN,ai.google.dev
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,makersuite.google.com
+  
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,anthropic.com
@@ -15,6 +41,33 @@ payload:
   - DOMAIN-SUFFIX,suno.ai
   - DOMAIN-SUFFIX,voicemod.net
   - DOMAIN-SUFFIX,synthesia.io
+  - DOMAIN-SUFFIX,stablediffusionweb.com
+  - DOMAIN-SUFFIX,zencreator.pro
+  - DOMAIN-SUFFIX,synthesia.io
+  - DOMAIN-SUFFIX,synthesys.live
+  - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,grokusercontent.com
+  - DOMAIN-SUFFIX,imagine-public.x.ai
+  - DOMAIN-SUFFIX,deepseek.com,RP-Engine-AI 💻,tcp # Untuk subdomain juga
+  - DOMAIN-SUFFIX,js.hcaptcha.com
+  - DOMAIN-SUFFIX,searchcode.com
+  - DOMAIN-SUFFIX,bgp.tools
+  - DOMAIN-SUFFIX,api.bgpview.io
+  - DOMAIN-SUFFIX,api.hackertarget.com
+  - DOMAIN-SUFFIX,asn.shadowserver.org
+  - DOMAIN-SUFFIX,urlscan.io
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-SUFFIX,pornworks.com
+  - DOMAIN-SUFFIX,artworks.ai
+  - DOMAIN-SUFFIX,realistic-media.io
+  
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,chatgpt
   - DOMAIN-KEYWORD,anthropic
@@ -28,61 +81,10 @@ payload:
   - DOMAIN-KEYWORD,suno
   - DOMAIN-KEYWORD,voicemod
   - DOMAIN-KEYWORD,synthesia
-  - DOMAIN,chat.openai.com
-  - DOMAIN,platform.openai.com
-  - DOMAIN,chatgpt.com
-  - DOMAIN,claude.ai
-  - DOMAIN,poe.com
-  - DOMAIN,perplexity.ai
-  - DOMAIN,www.midjourney.com
-  - DOMAIN,replicate.com
-  - DOMAIN,huggingface.co
-  - DOMAIN,stability.ai
-  - DOMAIN,character.ai
-  - DOMAIN,suno.ai
-  - DOMAIN-SUFFIX,synthesia.io
-  - DOMAIN-SUFFIX,synthesys.live
-  - DOMAIN,voicemod.net
-  - DOMAIN,runwayml.com
-  - DOMAIN,www.picso.ai
-  - DOMAIN,lmarena.ai
-  - DOMAIN-SUFFIX,grok.com
-  - DOMAIN-SUFFIX,grokusercontent.com
-  - DOMAIN-SUFFIX,imagine-public.x.ai
-
-  - DOMAIN-SUFFIX,aistudio.google.com  
-  - DOMAIN,deepseek.com,RP-Engine-AI 💻,tcp # Akses langsung
-  - DOMAIN,chat.deepseek.com.cdn.cloudflare.net,RP-Engine-AI 💻,tcp # Akses langsung
-  - DOMAIN-SUFFIX,deepseek.com,RP-Engine-AI 💻,tcp # Untuk subdomain juga
-  - DOMAIN-SUFFIX,js.hcaptcha.com
-
-
-
   - DOMAIN-KEYWORD,deepseek,RP-Engine-AI 💻,tcp # Mencocokkan semua domain yang mengandung "deepseek"
-  - IP-CIDR,104.18.3.79/32,RP-Engine-AI 💻,tcp # Ganti dengan IP terbaru
-  - IP-CIDR,104.18.27.90/32,RP-Engine-AI,tcp
-
-  - DOMAIN-SUFFIX,searchcode.com
-  - DOMAIN-SUFFIX,bgp.tools
-  - DOMAIN-SUFFIX,api.bgpview.io
-  - DOMAIN-SUFFIX,api.hackertarget.com
-  - DOMAIN-SUFFIX,asn.shadowserver.org
-  - DOMAIN-SUFFIX,urlscan.io
-
-  - DOMAIN,gemini.google.com
-  - DOMAIN,ai.google.dev
-  - DOMAIN,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN,makersuite.google.com
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN-SUFFIX,deepmind.google
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,generativeai.google
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-  - DOMAIN-SUFFIX,apis.google.com
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
-  - DOMAIN-SUFFIX,pornworks.com
-  - DOMAIN-SUFFIX,artworks.ai
-  - DOMAIN-SUFFIX,realistic-media.io
+  
+  - IP-CIDR,104.18.3.79/32,RP-Engine-AI 💻,tcp # Ganti dengan IP terbaru
+  - IP-CIDR,104.18.27.90/32,RP-Engine-AI,tcp
