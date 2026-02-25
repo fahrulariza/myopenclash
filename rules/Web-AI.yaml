@@ -67,6 +67,7 @@ payload:
   - DOMAIN-SUFFIX,pornworks.com
   - DOMAIN-SUFFIX,artworks.ai
   - DOMAIN-SUFFIX,realistic-media.io
+  - DOMAIN-SUFFIX,faceswap.so
   
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,chatgpt
