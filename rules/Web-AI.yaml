@@ -4,6 +4,7 @@ payload:
   - DOMAIN,platform.openai.com
   - DOMAIN,chatgpt.com
   - DOMAIN,claude.ai
+  - DOMAIN,meta.ai  
   - DOMAIN,poe.com
   - DOMAIN,perplexity.ai
   - DOMAIN,www.midjourney.com
@@ -70,6 +71,7 @@ payload:
   - DOMAIN-SUFFIX,faceswap.so
   - DOMAIN-SUFFIX,wula.ai
   - DOMAIN-SUFFIX,clipfly.ai
+  - DOMAIN-SUFFIX,slop.club
   
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,chatgpt
