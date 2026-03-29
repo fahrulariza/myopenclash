@@ -2,6 +2,11 @@ payload:
 
   - DOMAIN-SUFFIX,lastwargame.com
   - DOMAIN-SUFFIX,lastwarapp.com
+  - DOMAIN-SUFFIX,lastwarapp.net
+  - DOMAIN-SUFFIX,lastwar.com
+  - DOMAIN-SUFFIX,lastwardev.aihelp.net
+  - DOMAIN-SUFFIX,lastwar-cdn.akamaized.net
+  
   
 # Counter-Strike 2 (CS2)
 ## - DST-PORT,3478,4379-4380,PLAY-IN-GAME 🎮,udp  # Steam voice chat (P2P) = port 3478 sama dengan whatsapp call
