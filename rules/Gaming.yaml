@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,lastwar.com
   - DOMAIN-SUFFIX,lastwardev.aihelp.net
   - DOMAIN-SUFFIX,lastwar-cdn.akamaized.net
+  - DOMAIN-KEYWORD,lastwar
   
   
 # Counter-Strike 2 (CS2)
