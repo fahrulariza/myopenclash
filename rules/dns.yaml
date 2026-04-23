@@ -3,15 +3,29 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-dns.com # Cloudflare
   - DOMAIN,cdnjs.cloudflare.com
   - DOMAIN,a.nel.cloudflare.com
+  - DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
   - DOMAIN-SUFFIX,dns.adguard-dns.com
   - DOMAIN-SUFFIX,dns.nextdns.io # NextDNS
   - DOMAIN-SUFFIX,dns.quad9.net # Quad9
+  - DOMAIN-SUFFIX,anycast.nextdns.io
+  - DOMAIN-SUFFIX,doh.cleanbrowsing.org
+  - DOMAIN-SUFFIX,doh.opendns.com
+  - DOMAIN-SUFFIX,dns.mullvad.net
+
   
   - IP-CIDR,1.1.1.1/32 # Cloudflare
   - IP-CIDR,1.0.0.1/32 # Cloudflare 
   - IP-CIDR,8.8.8.8/32 # Google
   - IP-CIDR,8.8.4.4/32 # Google  
   - IP-CIDR,9.9.9.9/32 # Quad9
+  - IP-CIDR,203.142.82.222/32 # Biznet
+  - IP-CIDR,203.142.84.222/32 # Biznet
+  - IP-CIDR,203.130.208.18/32 # Indihome (Telkom)
+  - IP-CIDR,203.130.193.74/32 # Indihome (Telkom)
+  - IP-CIDR,103.100.100.100/32 # MyRepublic
+  - IP-CIDR,103.100.101.101/32 # MyRepublic
+  - IP-CIDR,202.158.3.7/32 # CBN
+  - IP-CIDR,202.158.3.6/32 # CBN
 
 # ===== REKOMENDASI TAMBAHAN =====
 
