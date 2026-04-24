@@ -18,19 +18,19 @@ payload:
   - DOMAIN-SUFFIX,bravesoftware.com  
 
 # - DOMAIN-SUFFIX,addons.mozilla.org # Hanya jika ingin blokir update ekstensi
-  - DOMAIN,aus5.mozilla.org # Server utama update otomatis Firefox
-  - DOMAIN,aus4.mozilla.org # Server cadangan update
-  - DOMAIN,download.mozilla.org # Download binary update
-  - DOMAIN-SUFFIX,update.mozilla.org # Cek info pembaruan
-  - DOMAIN-SUFFIX,services.addons.mozilla.org
-  - DOMAIN-SUFFIX,addons.mozilla.org
-  - DOMAIN-SUFFIX,ads.mozilla.org
-  - DOMAIN-SUFFIX,push.services.mozilla.com
-  - DOMAIN-SUFFIX,mozilla-download.fastly-edge.com
+#  - DOMAIN,aus5.mozilla.org # Server utama update otomatis Firefox
+#  - DOMAIN,aus4.mozilla.org # Server cadangan update
+#  - DOMAIN,download.mozilla.org # Download binary update
+#  - DOMAIN-SUFFIX,update.mozilla.org # Cek info pembaruan
+#  - DOMAIN-SUFFIX,services.addons.mozilla.org
+#  - DOMAIN-SUFFIX,addons.mozilla.org
+#  - DOMAIN-SUFFIX,ads.mozilla.org
+#  - DOMAIN-SUFFIX,push.services.mozilla.com
+#  - DOMAIN-SUFFIX,mozilla-download.fastly-edge.com
   
 #AMD Driver
-  - DOMAIN-SUFFIX,drivers.amd.com
-  - DOMAIN-SUFFIX,ati.com
+#  - DOMAIN-SUFFIX,drivers.amd.com
+#  - DOMAIN-SUFFIX,ati.com
 
 #OS_Update_Windows
 #  - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com # MS.STORE
