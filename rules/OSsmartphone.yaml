@@ -3,6 +3,8 @@ payload:
   - DOMAIN,dxb1431.github.io
   - DOMAIN-SUFFIX,dxb1431.github.io
   - DOMAIN-SUFFIX,pangle.io
+  - DOMAIN-SUFFIX,tuyaus.com
+  - DOMAIN-SUFFIX,tuya.com
 # Google Pixel
   - DOMAIN-SUFFIX,ota.googlezip.net
   - DOMAIN-SUFFIX,updates.googleapis.com
@@ -18,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,swdownload.apple.com
   - DOMAIN-SUFFIX,swdist.apple.com
   - DOMAIN-SUFFIX,smp-device-content.apple.com
+
   # Apple OS Update
   - DOMAIN-SUFFIX,mesu.apple.com
   - DOMAIN-SUFFIX,updates.cdn-apple.com
