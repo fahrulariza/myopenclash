@@ -28,6 +28,8 @@ payload:
   - DOMAIN-SUFFIX,time.cloudflare.com
   - DOMAIN-SUFFIX,nist.gov
   - DOMAIN-SUFFIX,nts.sth1.ntp.se
+  - DOMAIN-SUFFIX,time.ubuntu.com
+  - DOMAIN-SUFFIX,android.pool.ntp.org
   - DST-PORT,123
 
 # sntp_server_ip_Tenda
