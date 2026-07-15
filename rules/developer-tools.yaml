@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,gnu.org
   - DOMAIN-SUFFIX,w3.org
   - DOMAIN-SUFFIX,genymotion.com
+  - DOMAIN-SUFFIX,xethub.hf.co
 
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gitlab
