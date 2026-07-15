@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,files.pythonhosted.org
+  - DOMAIN-SUFFIX,pytorch.org
   - DOMAIN-SUFFIX,ruby-lang.org
   - DOMAIN-SUFFIX,maven.org
   - DOMAIN-SUFFIX,gradle.org
