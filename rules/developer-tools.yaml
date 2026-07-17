@@ -10,7 +10,8 @@ payload:
   - DOMAIN-SUFFIX,public-dns.info
   - DOMAIN-SUFFIX,certificatedetails.com
   - DOMAIN-SUFFIX,sahabatssh.com
-    
+  
+  - DOMAIN-SUFFIX,cloudflarestorage.com
   - DOMAIN,api.pdtm.sh
   - DOMAIN,crt.sh
   - DOMAIN-SUFFIX,downloads.openwrt.org
