@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,certificatedetails.com
   - DOMAIN-SUFFIX,sahabatssh.com
 
+  - DOMAIN-SUFFIX,anaconda.org
   - DOMAIN-SUFFIX,visualstudio.microsoft.com
   - DOMAIN-SUFFIX,cloudflarestorage.com
   - DOMAIN,api.pdtm.sh
