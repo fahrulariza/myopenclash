@@ -12,6 +12,9 @@ payload:
   - DOMAIN-SUFFIX,sahabatssh.com
   - DOMAIN-SUFFIX,api-mifit-us3.zepp.com
   - DOMAIN-SUFFIX,zepp.com
+  - DOMAIN-SUFFIX,tuyaus.com
+  - DOMAIN-SUFFIX,tuyacn.com
+  - DOMAIN-SUFFIX,tuya.com
 
   - DOMAIN-SUFFIX,anaconda.org
   - DOMAIN-SUFFIX,visualstudio.microsoft.com
