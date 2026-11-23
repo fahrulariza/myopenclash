@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,mega.io
   - DOMAIN-SUFFIX,mega.nz
   - PROCESS-NAME,mega.privacy.android.app
+  - DOMAIN,augloop.svc.cloud.microsoft
 
 # Cloud Storage Servers (Continuation)
 
