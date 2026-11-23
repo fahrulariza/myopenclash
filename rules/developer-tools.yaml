@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,tuyaus.com
   - DOMAIN-SUFFIX,tuyacn.com
   - DOMAIN-SUFFIX,tuya.com
+  - DOMAIN-SUFFIX,clipchamp.com
 
   - DOMAIN-SUFFIX,anaconda.org
   - DOMAIN-SUFFIX,visualstudio.microsoft.com
