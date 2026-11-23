@@ -16,6 +16,9 @@ payload:
   - DOMAIN-SUFFIX,tuyacn.com
   - DOMAIN-SUFFIX,tuya.com
   - DOMAIN-SUFFIX,clipchamp.com
+#  substrate.office.com:443
+#  ecs.office.com:443
+#  ocws.officeapps.live.com:443
 
   - DOMAIN-SUFFIX,anaconda.org
   - DOMAIN-SUFFIX,visualstudio.microsoft.com
